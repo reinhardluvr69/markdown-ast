@@ -4,13 +4,13 @@
   "basename": "First blog post sweg",
   "stat": {
     "ctime": 1745560505076,
-    "mtime": 1745561347572,
-    "size": 441
+    "mtime": 1745563870297,
+    "size": 420
   },
   "tags": [
     "programming"
   ],
-  "slug": "first-obsidian-post-custom-slug-test",
+  "slug": "first-blog-post",
   "preview": "niko-baikal-seal.webp",
   "tagline": "Hi look at this seal. I'm testing using Obsidian as my CMS.",
   "previewAlt": "Niko the baikal seal staring at the camera",
@@ -20,7 +20,7 @@
       "tags": [
         "programming"
       ],
-      "slug": "first-obsidian-post-custom-slug-test",
+      "slug": "first-blog-post",
       "preview": "[[niko-baikal-seal.webp]]",
       "tagline": "Hi look at this seal. I'm testing using Obsidian as my CMS.",
       "previewAlt": "Niko the baikal seal staring at the camera"
@@ -30,7 +30,7 @@
       "children": [
         {
           "type": "yaml",
-          "value": "tags:\n  - programming\nslug: first-obsidian-post-custom-slug-test\npreview: \"[[niko-baikal-seal.webp]]\"\ntagline: Hi look at this seal. I'm testing using Obsidian as my CMS.\npreviewAlt: Niko the baikal seal staring at the camera"
+          "value": "tags:\n  - programming\nslug: first-blog-post\npreview: \"[[niko-baikal-seal.webp]]\"\ntagline: Hi look at this seal. I'm testing using Obsidian as my CMS.\npreviewAlt: Niko the baikal seal staring at the camera"
         },
         {
           "type": "paragraph",
