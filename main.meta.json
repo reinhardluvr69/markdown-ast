@@ -7,28 +7,15 @@
       "extension": "md",
       "stat": {
         "ctime": 1745560505076,
-        "mtime": 1745563870297,
-        "size": 420
+        "mtime": 1745564105046,
+        "size": 407
       },
-      "tags": [
-        "programming"
-      ],
+      "tags": [],
       "slug": "first-blog-post",
       "preview": "niko-baikal-seal.webp",
       "tagline": "Hi look at this seal. I'm testing using Obsidian as my CMS.",
       "previewAlt": "Niko the baikal seal staring at the camera"
     }
   ],
-  "tags": [
-    {
-      "name": "programming",
-      "entries": [
-        {
-          "path": "First blog post sweg.ast.json",
-          "slug": "first-blog-post",
-          "preview": "niko-baikal-seal.webp"
-        }
-      ]
-    }
-  ]
+  "tags": []
 }
