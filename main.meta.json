@@ -1,0 +1,34 @@
+{
+  "files": [
+    {
+      "path": "First blog post sweg.ast.json",
+      "name": "First blog post sweg.md",
+      "basename": "First blog post sweg",
+      "extension": "md",
+      "stat": {
+        "ctime": 1745560505076,
+        "mtime": 1745561347572,
+        "size": 441
+      },
+      "tags": [
+        "programming"
+      ],
+      "slug": "first-obsidian-post-custom-slug-test",
+      "preview": "niko-baikal-seal.webp",
+      "tagline": "Hi look at this seal. I'm testing using Obsidian as my CMS.",
+      "previewAlt": "Niko the baikal seal staring at the camera"
+    }
+  ],
+  "tags": [
+    {
+      "name": "programming",
+      "entries": [
+        {
+          "path": "First blog post sweg.ast.json",
+          "slug": "first-obsidian-post-custom-slug-test",
+          "preview": "niko-baikal-seal.webp"
+        }
+      ]
+    }
+  ]
+}

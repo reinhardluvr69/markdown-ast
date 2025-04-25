@@ -1,0 +1,83 @@
+{
+  "path": "First blog post sweg.ast.json",
+  "name": "First blog post sweg.md",
+  "basename": "First blog post sweg",
+  "stat": {
+    "ctime": 1745560505076,
+    "mtime": 1745561347572,
+    "size": 441
+  },
+  "tags": [
+    "programming"
+  ],
+  "slug": "first-obsidian-post-custom-slug-test",
+  "preview": "niko-baikal-seal.webp",
+  "tagline": "Hi look at this seal. I'm testing using Obsidian as my CMS.",
+  "previewAlt": "Niko the baikal seal staring at the camera",
+  "ast": {
+    "settings": {},
+    "frontmatter": {
+      "tags": [
+        "programming"
+      ],
+      "slug": "first-obsidian-post-custom-slug-test",
+      "preview": "[[niko-baikal-seal.webp]]",
+      "tagline": "Hi look at this seal. I'm testing using Obsidian as my CMS.",
+      "previewAlt": "Niko the baikal seal staring at the camera"
+    },
+    "ast": {
+      "type": "root",
+      "children": [
+        {
+          "type": "yaml",
+          "value": "tags:\n  - programming\nslug: first-obsidian-post-custom-slug-test\npreview: \"[[niko-baikal-seal.webp]]\"\ntagline: Hi look at this seal. I'm testing using Obsidian as my CMS.\npreviewAlt: Niko the baikal seal staring at the camera"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "embedWikilink",
+              "value": "niko-baikal-seal.webp|Niko the baikal seal image",
+              "fileAccessor": {
+                "target": "niko-baikal-seal.webp",
+                "isEmbed": true,
+                "stats": {
+                  "ctime": 1745560505080,
+                  "mtime": 1745117052286,
+                  "size": 116300
+                },
+                "basePath": "niko-baikal-seal.webp"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "This post is powered by Obsidian. Check out "
+            },
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://www.turnipxenon.com/blogs/first-obsidian-post-custom-slug-test",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "First Obsidian Post"
+                }
+              ],
+              "label": "First Obsidian Post",
+              "identifier": "first obsidian post"
+            },
+            {
+              "type": "text",
+              "value": " for more info."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
