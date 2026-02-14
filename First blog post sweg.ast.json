@@ -4,8 +4,8 @@
   "basename": "First blog post sweg",
   "stat": {
     "ctime": 1771037426607,
-    "mtime": 1771048587395,
-    "size": 529
+    "mtime": 1771050079478,
+    "size": 545
   },
   "tags": [],
   "slug": "first-blog-post",
@@ -96,7 +96,7 @@
           "children": [
             {
               "type": "text",
-              "value": "trying cloudflare deployment from obsidian"
+              "value": "trying cloudflare deployment from obsidian. try after CORS"
             }
           ]
         },
