@@ -1,3 +1,7 @@
 *.md
 **/*.md
 .gitconfig
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/reinhardluvr69 Blog.iml
+/.idea/workspace.xml
