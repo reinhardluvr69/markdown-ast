@@ -4,8 +4,8 @@
   "basename": "First blog post sweg",
   "stat": {
     "ctime": 1771037426607,
-    "mtime": 1771045314679,
-    "size": 484
+    "mtime": 1771044224112,
+    "size": 439
   },
   "tags": [],
   "slug": "first-blog-post",
@@ -79,34 +79,6 @@
             {
               "type": "text",
               "value": "One more line for testing…"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "type": "text",
-              "value": "Another photo"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "type": "embedWikilink",
-              "value": "testing-new-resource.png",
-              "fileAccessor": {
-                "target": "testing-new-resource.png",
-                "isEmbed": true,
-                "stats": {
-                  "ctime": 1771045304421,
-                  "mtime": 1771045304426,
-                  "size": 540000
-                },
-                "basePath": "testing-new-resource.png"
-              }
             }
           ]
         }
