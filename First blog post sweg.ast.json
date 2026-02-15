@@ -4,8 +4,8 @@
   "basename": "First blog post sweg",
   "stat": {
     "ctime": 1771037426607,
-    "mtime": 1771050135263,
-    "size": 548
+    "mtime": 1771144028556,
+    "size": 429
   },
   "tags": [],
   "slug": "first-blog-post",
@@ -52,24 +52,7 @@
           "children": [
             {
               "type": "text",
-              "value": "This post is powered by Obsidian. Check out "
-            },
-            {
-              "type": "link",
-              "title": null,
-              "url": "https://www.turnipxenon.com/blogs/first-obsidian-post-custom-slug-test",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "First Obsidian Post"
-                }
-              ],
-              "label": "First Obsidian Post",
-              "identifier": "first obsidian post"
-            },
-            {
-              "type": "text",
-              "value": " for more info."
+              "value": "This post is powered by Obsidian."
             }
           ]
         },
