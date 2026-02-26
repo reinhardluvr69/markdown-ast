@@ -1,6 +1,25 @@
 {
   "files": [
     {
+      "path": "events/Niko's 6th birthday.ast.json",
+      "name": "Niko's 6th birthday.md",
+      "basename": "Niko's 6th birthday",
+      "extension": "md",
+      "stat": {
+        "ctime": 1772085182439,
+        "mtime": 1772086448698,
+        "size": 3048
+      },
+      "tags": [
+        "turnip-food-tour",
+        "oomfie-world-tour",
+        "niko"
+      ],
+      "slug": "niko-6th-bday",
+      "preview": "https://photos.reinhardluvr69.com/photos/24170415-e974-442a-b3c9-85cd048f3916.jpg",
+      "previewAlt": "Sushi platter with a picture of Niko the baikal seal under"
+    },
+    {
       "path": "First blog post sweg.ast.json",
       "name": "First blog post sweg.md",
       "basename": "First blog post sweg",
@@ -17,5 +36,36 @@
       "previewAlt": "Niko the baikal seal staring at the camera"
     }
   ],
-  "tags": []
+  "tags": [
+    {
+      "name": "turnip-food-tour",
+      "entries": [
+        {
+          "path": "events/Niko's 6th birthday.ast.json",
+          "slug": "niko-6th-bday",
+          "preview": "https://photos.reinhardluvr69.com/photos/24170415-e974-442a-b3c9-85cd048f3916.jpg"
+        }
+      ]
+    },
+    {
+      "name": "oomfie-world-tour",
+      "entries": [
+        {
+          "path": "events/Niko's 6th birthday.ast.json",
+          "slug": "niko-6th-bday",
+          "preview": "https://photos.reinhardluvr69.com/photos/24170415-e974-442a-b3c9-85cd048f3916.jpg"
+        }
+      ]
+    },
+    {
+      "name": "niko",
+      "entries": [
+        {
+          "path": "events/Niko's 6th birthday.ast.json",
+          "slug": "niko-6th-bday",
+          "preview": "https://photos.reinhardluvr69.com/photos/24170415-e974-442a-b3c9-85cd048f3916.jpg"
+        }
+      ]
+    }
+  ]
 }
