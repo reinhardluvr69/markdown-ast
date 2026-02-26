@@ -4,7 +4,7 @@
   "basename": "Niko's 6th birthday",
   "stat": {
     "ctime": 1772085182439,
-    "mtime": 1772086448698,
+    "mtime": 1772087091407,
     "size": 3048
   },
   "tags": [
@@ -256,11 +256,7 @@
           "children": [
             {
               "type": "text",
-              "value": "We went to an eat-all-you-can sushi place, where I also first met my oomfies for the first time the year before. Thanks oomfies! "
-            },
-            {
-              "type": "blockid",
-              "value": "^"
+              "value": "We went to an eat-all-you-can sushi place, where I also first met my oomfies for the first time the year before. Thanks oomfies! :D"
             }
           ]
         },
