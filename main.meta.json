@@ -1,6 +1,44 @@
 {
   "files": [
     {
+      "path": "food-reviews/edmonton/Japonais Bistro Edmonton Review.ast.json",
+      "name": "Japonais Bistro Edmonton Review.md",
+      "basename": "Japonais Bistro Edmonton Review",
+      "extension": "md",
+      "stat": {
+        "ctime": 1772240677409,
+        "mtime": 1772245946896,
+        "size": 1265
+      },
+      "tags": [
+        "turnip-food-tour",
+        "food-review",
+        "edmonton"
+      ],
+      "slug": "review/japonais-bistro-edmonton",
+      "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg",
+      "previewAlt": "Sushi platter with a picture of Niko the baikal seal under"
+    },
+    {
+      "path": "food-reviews/edmonton/Japonais Bistro Review.ast.json",
+      "name": "Japonais Bistro Review.md",
+      "basename": "Japonais Bistro Review",
+      "extension": "md",
+      "stat": {
+        "ctime": 1772240677409,
+        "mtime": 1772242875161,
+        "size": 1247
+      },
+      "tags": [
+        "turnip-food-tour",
+        "food-review",
+        "edmonton"
+      ],
+      "slug": "niko-6th-bday",
+      "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg",
+      "previewAlt": "Sushi platter with a picture of Niko the baikal seal under"
+    },
+    {
       "path": "events/Niko's 6th birthday.ast.json",
       "name": "Niko's 6th birthday.md",
       "basename": "Niko's 6th birthday",
@@ -42,9 +80,49 @@
       "name": "turnip-food-tour",
       "entries": [
         {
+          "path": "food-reviews/edmonton/Japonais Bistro Edmonton Review.ast.json",
+          "slug": "review/japonais-bistro-edmonton",
+          "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg"
+        },
+        {
+          "path": "food-reviews/edmonton/Japonais Bistro Review.ast.json",
+          "slug": "niko-6th-bday",
+          "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg"
+        },
+        {
           "path": "events/Niko's 6th birthday.ast.json",
           "slug": "niko-6th-bday",
           "preview": "https://photos.reinhardluvr69.com/photos/24170415-e974-442a-b3c9-85cd048f3916.jpg"
+        }
+      ]
+    },
+    {
+      "name": "food-review",
+      "entries": [
+        {
+          "path": "food-reviews/edmonton/Japonais Bistro Edmonton Review.ast.json",
+          "slug": "review/japonais-bistro-edmonton",
+          "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg"
+        },
+        {
+          "path": "food-reviews/edmonton/Japonais Bistro Review.ast.json",
+          "slug": "niko-6th-bday",
+          "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg"
+        }
+      ]
+    },
+    {
+      "name": "edmonton",
+      "entries": [
+        {
+          "path": "food-reviews/edmonton/Japonais Bistro Edmonton Review.ast.json",
+          "slug": "review/japonais-bistro-edmonton",
+          "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg"
+        },
+        {
+          "path": "food-reviews/edmonton/Japonais Bistro Review.ast.json",
+          "slug": "niko-6th-bday",
+          "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg"
         }
       ]
     },

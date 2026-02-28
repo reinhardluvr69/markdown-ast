@@ -1,0 +1,31 @@
+{
+  "$schema": "https://schema.org/docs/jsonldcontext.json",
+  "@context": "https://schema.org/",
+  "@type": "Review",
+  "datePublished": "2024-09-25",
+  "itemReviewed": {
+    "@type": "Restaurant",
+    "image": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg",
+    "name": "Japonais Bistro Review",
+    "servesCuisine": [
+      "Japanese"
+    ],
+    "url": "https://www.japonaisbistro.ca/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "11806 Jasper Ave",
+      "addressLocality": "Edmonton",
+      "addressRegion": "AB",
+      "postalCode": "T5K 0N7",
+      "addressCountry": "CA"
+    }
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 6,
+    "bestRating": 10,
+    "worstRating": 1
+  },
+  "reviewBody": "Wonderful presentation, food-wise and settings. It's good but there's nothing special, and the price isn't helping.",
+  "author": "Turnip"
+}

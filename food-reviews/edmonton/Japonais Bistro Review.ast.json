@@ -1,0 +1,127 @@
+{
+  "path": "food-reviews/edmonton/Japonais Bistro Review.ast.json",
+  "name": "Japonais Bistro Review.md",
+  "basename": "Japonais Bistro Review",
+  "stat": {
+    "ctime": 1772240677409,
+    "mtime": 1772242875161,
+    "size": 1247
+  },
+  "tags": [
+    "turnip-food-tour",
+    "food-review",
+    "edmonton"
+  ],
+  "slug": "niko-6th-bday",
+  "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg",
+  "previewAlt": "Sushi platter with a picture of Niko the baikal seal under",
+  "ast": {
+    "settings": {},
+    "frontmatter": {
+      "tags": [
+        "turnip-food-tour",
+        "food-review",
+        "edmonton"
+      ],
+      "slug": "niko-6th-bday",
+      "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg",
+      "previewAlt": "Sushi platter with a picture of Niko the baikal seal under"
+    },
+    "ast": {
+      "type": "root",
+      "children": [
+        {
+          "type": "yaml",
+          "value": "tags:\n  - turnip-food-tour\n  - food-review\n  - edmonton\nslug: niko-6th-bday\npreview: https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg\npreviewAlt: Sushi platter with a picture of Niko the baikal seal under"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Details:"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "start": null,
+          "spread": false,
+          "children": [
+            {
+              "type": "listItem",
+              "spread": false,
+              "checked": null,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Japonais Bistro, Edmonton, AB"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "spread": false,
+              "checked": null,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Rating: 6/10"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Good sushi. Wonderful presentation. Wasabi isn't as good as Sushi Wasabi. I could barely taste the spiciness in TNT Sushi, if there is at all. Otherwise, the TNT Sushi has good smoky aftertaste and nice creamy flavor. Just gotta remember to wash my palette with some good ole ginger. The Pressed Salmon Sushi is the typical sushi I expect. It's delicious but nothing that I've already tasted elsewhere. It's a wonderful combination of crispy tempura bit texture and creamy texture. You can never go wrong with salmon and the caviar is non-trivially served. The TNT's rice was noticeably better than this but does not detract the typical sushi experience I at least expect. Doesn't mean it's bad, but it's not exceptional. The Raspberry Calpico Fizz drink is okay. There's a nice "
+            },
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "contrast"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " between the fruit and soda. Nothing special but it's still good."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
