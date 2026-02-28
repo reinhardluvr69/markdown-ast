@@ -4,8 +4,8 @@
   "basename": "Japonais Bistro Edmonton Review",
   "stat": {
     "ctime": 1772240677409,
-    "mtime": 1772245946896,
-    "size": 1265
+    "mtime": 1772246131169,
+    "size": 1319
   },
   "tags": [
     "turnip-food-tour",
@@ -15,6 +15,7 @@
   "slug": "review/japonais-bistro-edmonton",
   "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg",
   "previewAlt": "Sushi platter with a picture of Niko the baikal seal under",
+  "ldJson": "[[Japonais Bistro Edmonton Review.ld.json]]",
   "ast": {
     "settings": {},
     "frontmatter": {
@@ -25,14 +26,15 @@
       ],
       "slug": "review/japonais-bistro-edmonton",
       "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg",
-      "previewAlt": "Sushi platter with a picture of Niko the baikal seal under"
+      "previewAlt": "Sushi platter with a picture of Niko the baikal seal under",
+      "ldJson": "[[Japonais Bistro Edmonton Review.ld.json]]"
     },
     "ast": {
       "type": "root",
       "children": [
         {
           "type": "yaml",
-          "value": "tags:\n  - turnip-food-tour\n  - food-review\n  - edmonton\nslug: review/japonais-bistro-edmonton\npreview: https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg\npreviewAlt: Sushi platter with a picture of Niko the baikal seal under"
+          "value": "tags:\n  - turnip-food-tour\n  - food-review\n  - edmonton\nslug: review/japonais-bistro-edmonton\npreview: https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg\npreviewAlt: Sushi platter with a picture of Niko the baikal seal under\nldJson: \"[[Japonais Bistro Edmonton Review.ld.json]]\""
         },
         {
           "type": "paragraph",
