@@ -27,5 +27,8 @@
     "worstRating": 1
   },
   "reviewBody": "Wonderful presentation, food-wise and settings. It's good but there's nothing special, and the price isn't helping.",
-  "author": "Turnip"
+  "author": {
+    "@type": "Person",
+    "name": "turnip"
+  }
 }

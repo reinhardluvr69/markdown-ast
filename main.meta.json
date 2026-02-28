@@ -7,8 +7,8 @@
       "extension": "md",
       "stat": {
         "ctime": 1772240677409,
-        "mtime": 1772246216673,
-        "size": 1265
+        "mtime": 1772249933860,
+        "size": 1291
       },
       "tags": [
         "turnip-food-tour",
@@ -17,7 +17,8 @@
       ],
       "slug": "review/japonais-bistro-edmonton",
       "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg",
-      "previewAlt": "Sushi platter with a picture of Niko the baikal seal under"
+      "previewAlt": "Sushi platter with a picture of Niko the baikal seal under",
+      "datePublished": "2024-09-25"
     },
     {
       "path": "First blog post sweg.ast.json",
@@ -26,14 +27,15 @@
       "extension": "md",
       "stat": {
         "ctime": 1771037426607,
-        "mtime": 1772241073723,
-        "size": 487
+        "mtime": 1772246829607,
+        "size": 511
       },
       "tags": [],
       "slug": "first-blog-post",
       "preview": "niko-baikal-seal.webp",
       "tagline": "Hi look at this seal. I'm testing using Obsidian as my CMS.",
-      "previewAlt": "Niko the baikal seal staring at the camera"
+      "previewAlt": "Niko the baikal seal staring at the camera",
+      "lastUpdated": "2026-02-14"
     },
     {
       "path": "events/Niko's 6th birthday.ast.json",

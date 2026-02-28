@@ -4,6 +4,7 @@ slug: first-blog-post
 preview: "[[BlogBase/reinhardluvr69 Blog/niko-baikal-seal.webp]]"
 tagline: Hi look at this seal. I'm testing using Obsidian as my CMS.
 previewAlt: Niko the baikal seal staring at the camera
+lastUpdated: 2026-02-14
 ---
 
 ![[BlogBase/reinhardluvr69 Blog/niko-baikal-seal.webp|Niko the baikal seal image]]

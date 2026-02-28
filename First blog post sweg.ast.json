@@ -4,14 +4,15 @@
   "basename": "First blog post sweg",
   "stat": {
     "ctime": 1771037426607,
-    "mtime": 1772241073723,
-    "size": 487
+    "mtime": 1772246829607,
+    "size": 511
   },
   "tags": [],
   "slug": "first-blog-post",
   "preview": "niko-baikal-seal.webp",
   "tagline": "Hi look at this seal. I'm testing using Obsidian as my CMS.",
   "previewAlt": "Niko the baikal seal staring at the camera",
+  "lastUpdated": "2026-02-14",
   "ast": {
     "settings": {},
     "frontmatter": {
@@ -19,14 +20,15 @@
       "slug": "first-blog-post",
       "preview": "[[BlogBase/reinhardluvr69 Blog/niko-baikal-seal.webp]]",
       "tagline": "Hi look at this seal. I'm testing using Obsidian as my CMS.",
-      "previewAlt": "Niko the baikal seal staring at the camera"
+      "previewAlt": "Niko the baikal seal staring at the camera",
+      "lastUpdated": "2026-02-14"
     },
     "ast": {
       "type": "root",
       "children": [
         {
           "type": "yaml",
-          "value": "tags: []\nslug: first-blog-post\npreview: \"[[BlogBase/reinhardluvr69 Blog/niko-baikal-seal.webp]]\"\ntagline: Hi look at this seal. I'm testing using Obsidian as my CMS.\npreviewAlt: Niko the baikal seal staring at the camera"
+          "value": "tags: []\nslug: first-blog-post\npreview: \"[[BlogBase/reinhardluvr69 Blog/niko-baikal-seal.webp]]\"\ntagline: Hi look at this seal. I'm testing using Obsidian as my CMS.\npreviewAlt: Niko the baikal seal staring at the camera\nlastUpdated: 2026-02-14"
         },
         {
           "type": "paragraph",
