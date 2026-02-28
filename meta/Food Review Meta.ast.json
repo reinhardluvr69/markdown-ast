@@ -4,14 +4,15 @@
   "basename": "Food Review Meta",
   "stat": {
     "ctime": 1772241278014,
-    "mtime": 1772260439424,
-    "size": 2930
+    "mtime": 1772260658796,
+    "size": 3055
   },
   "tags": [
     "food-review",
     "meta"
   ],
   "slug": "meta/food-review",
+  "tagline": "Anyways, there might be something you'll notice when I rate food: I rate them *lower* than what most are used to.",
   "ast": {
     "settings": {},
     "frontmatter": {
@@ -19,14 +20,15 @@
         "food-review",
         "meta"
       ],
-      "slug": "meta/food-review"
+      "slug": "meta/food-review",
+      "tagline": "Anyways, there might be something you'll notice when I rate food: I rate them *lower* than what most are used to."
     },
     "ast": {
       "type": "root",
       "children": [
         {
           "type": "yaml",
-          "value": "tags:\n  - food-review\n  - meta\nslug: meta/food-review"
+          "value": "tags:\n  - food-review\n  - meta\nslug: meta/food-review\ntagline: \"Anyways, there might be something you'll notice when I rate food: I rate them *lower* than what most are used to.\""
         },
         {
           "type": "paragraph",

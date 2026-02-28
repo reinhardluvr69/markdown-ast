@@ -3,6 +3,7 @@ tags:
   - food-review
   - meta
 slug: meta/food-review
+tagline: "Anyways, there might be something you'll notice when I rate food: I rate them *lower* than what most are used to."
 ---
 
 I created my own CMS on Obsidian so I could post random things in my mind that tweets may not be enough for. One of those long-ish texts I want to post are food blogs.

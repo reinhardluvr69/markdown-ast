@@ -5,7 +5,7 @@
   "stat": {
     "ctime": 1727222400000,
     "mtime": 1727222400000,
-    "size": 1342
+    "size": 1344
   },
   "tags": [
     "turnip-food-tour",
@@ -16,7 +16,7 @@
   "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg",
   "previewAlt": "Pressed sushi",
   "datePublished": "2024-09-25",
-  "tagline": "Wonderful presentation, food-wise and settings-wise. It's good but there's nothing special, and the price isn't helping.",
+  "tagline": "6/10. Wonderful presentation, food-wise and settings-wise. It's good but there's nothing special, and the price isn't helping.",
   "lastUpdated": "2024-09-25",
   "ast": {
     "settings": {},
@@ -30,7 +30,7 @@
       "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg",
       "previewAlt": "Pressed sushi",
       "datePublished": "2024-09-25",
-      "tagline": "Wonderful presentation, food-wise and settings-wise. It's good but there's nothing special, and the price isn't helping.",
+      "tagline": "6/10. Wonderful presentation, food-wise and settings-wise. It's good but there's nothing special, and the price isn't helping.",
       "lastUpdated": "2024-09-25"
     },
     "ast": {
@@ -38,7 +38,7 @@
       "children": [
         {
           "type": "yaml",
-          "value": "tags:\n  - turnip-food-tour\n  - food-review\n  - edmonton\nslug: review/japonais-bistro-edmonton\npreview: https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg\npreviewAlt: Pressed sushi\ndatePublished: 2024-09-25\ntagline: Wonderful presentation, food-wise and settings-wise. It's good but there's nothing special, and the price isn't helping.\nlastUpdated: 2024-09-25"
+          "value": "tags:\n  - turnip-food-tour\n  - food-review\n  - edmonton\nslug: review/japonais-bistro-edmonton\npreview: https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg\npreviewAlt: Pressed sushi\ndatePublished: 2024-09-25\ntagline: 6/10. Wonderful presentation, food-wise and settings-wise. It's good but there's nothing special, and the price isn't helping.\nlastUpdated: 2024-09-25"
         },
         {
           "type": "paragraph",
@@ -61,20 +61,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Good sushi. Wonderful presentation. Wasabi isn't as good as Sushi Wasabi. I could barely taste the spiciness in TNT Sushi, if there is at all. Otherwise, the TNT Sushi has good smoky aftertaste and nice creamy flavor. Just gotta remember to wash my palette with some good ole ginger. The Pressed Salmon Sushi is the typical sushi I expect. It's delicious but nothing that I've already tasted elsewhere. It's a wonderful combination of crispy tempura bit texture and creamy texture. You can never go wrong with salmon and the caviar is non-trivially served. The TNT's rice was noticeably better than this but does not detract the typical sushi experience I at least expect. Doesn't mean it's bad, but it's not exceptional. The Raspberry Calpico Fizz drink is okay. There's a nice "
-            },
-            {
-              "type": "strong",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "contrast"
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "value": " between the fruit and soda. Nothing special but it's still good."
+              "value": "Good sushi. Wonderful presentation. Wasabi isn't as good as Sushi Wasabi. I could barely taste the spiciness in TNT Sushi, if there is at all. Otherwise, the TNT Sushi has good smoky aftertaste and nice creamy flavor. Just gotta remember to wash my palette with some good ole ginger. The Pressed Salmon Sushi is the typical sushi I expect. It's delicious but nothing that I've already tasted elsewhere. It's a wonderful combination of crispy tempura bit texture and creamy texture. You can never go wrong with salmon and the caviar is non-trivially served. The TNT's rice was noticeably better than this but does not detract the typical sushi experience I at least expect. Doesn't mean it's bad, but it's not exceptional. The Raspberry Calpico Fizz drink is okay. There's a nice contrast between the fruit and soda. Nothing special but it's still good."
             }
           ]
         }

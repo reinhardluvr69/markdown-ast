@@ -7,14 +7,15 @@
       "extension": "md",
       "stat": {
         "ctime": 1772241278014,
-        "mtime": 1772260439424,
-        "size": 2930
+        "mtime": 1772260658796,
+        "size": 3055
       },
       "tags": [
         "food-review",
         "meta"
       ],
-      "slug": "meta/food-review"
+      "slug": "meta/food-review",
+      "tagline": "Anyways, there might be something you'll notice when I rate food: I rate them *lower* than what most are used to."
     },
     {
       "path": "events/Niko's 6th birthday.ast.json",
@@ -63,7 +64,7 @@
       "stat": {
         "ctime": 1727222400000,
         "mtime": 1727222400000,
-        "size": 1342
+        "size": 1344
       },
       "tags": [
         "turnip-food-tour",
@@ -74,7 +75,7 @@
       "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg",
       "previewAlt": "Pressed sushi",
       "datePublished": "2024-09-25",
-      "tagline": "Wonderful presentation, food-wise and settings-wise. It's good but there's nothing special, and the price isn't helping.",
+      "tagline": "6/10. Wonderful presentation, food-wise and settings-wise. It's good but there's nothing special, and the price isn't helping.",
       "lastUpdated": "2024-09-25"
     }
   ],
