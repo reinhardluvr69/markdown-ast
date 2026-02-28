@@ -4,8 +4,8 @@
   "basename": "First blog post sweg",
   "stat": {
     "ctime": 1771037426607,
-    "mtime": 1771144028556,
-    "size": 429
+    "mtime": 1772241073723,
+    "size": 487
   },
   "tags": [],
   "slug": "first-blog-post",
@@ -17,7 +17,7 @@
     "frontmatter": {
       "tags": [],
       "slug": "first-blog-post",
-      "preview": "[[niko-baikal-seal.webp]]",
+      "preview": "[[BlogBase/reinhardluvr69 Blog/niko-baikal-seal.webp]]",
       "tagline": "Hi look at this seal. I'm testing using Obsidian as my CMS.",
       "previewAlt": "Niko the baikal seal staring at the camera"
     },
@@ -26,16 +26,16 @@
       "children": [
         {
           "type": "yaml",
-          "value": "tags: []\nslug: first-blog-post\npreview: \"[[niko-baikal-seal.webp]]\"\ntagline: Hi look at this seal. I'm testing using Obsidian as my CMS.\npreviewAlt: Niko the baikal seal staring at the camera"
+          "value": "tags: []\nslug: first-blog-post\npreview: \"[[BlogBase/reinhardluvr69 Blog/niko-baikal-seal.webp]]\"\ntagline: Hi look at this seal. I'm testing using Obsidian as my CMS.\npreviewAlt: Niko the baikal seal staring at the camera"
         },
         {
           "type": "paragraph",
           "children": [
             {
               "type": "embedWikilink",
-              "value": "niko-baikal-seal.webp|Niko the baikal seal image",
+              "value": "BlogBase/reinhardluvr69 Blog/niko-baikal-seal.webp|Niko the baikal seal image",
               "fileAccessor": {
-                "target": "niko-baikal-seal.webp",
+                "target": "BlogBase/reinhardluvr69 Blog/niko-baikal-seal.webp",
                 "isEmbed": true,
                 "stats": {
                   "ctime": 1771037426621,
