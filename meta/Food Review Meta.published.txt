@@ -1,0 +1,33 @@
+---
+tags:
+  - food-review
+  - meta
+slug: meta/food-review
+---
+
+I created my own CMS on Obsidian so I could post random things in my mind that tweets may not be enough for. One of those long-ish texts I want to post are food blogs.
+
+Who doesn't love food?
+
+Anyways, there might be something you'll notice when I rate food: I rate them *lower* than what most are used to. My friend read one of my reviews, and she was surprised about the contrast between my reaction to eating the food and the numbers I assigned to them. It's not that I hate food nor am I faking it nor do I think I have a higher standard. I just believe that we shouldn't inflate the numbers. [I think people that rate in tabelog are way harsher than me, though.](https://www.thetokyohibi.com/tabelog)
+
+Think of the numbers as this way:
+
+- **(1)**: VERY BAD. Literally harmful
+- **(2)**: BAD. It tastes awful.
+- **(3)**: Meh: I regret spending money here and I'd rather cook at home.
+- **(4)**: Good: Food might be good but it's debatable whether I'd want to eat here than cook at home.
+- **(5)**: Average. I enjoyed the food and think they are worth eating at. I recommend anything here, and it's a place I'd come back to.
+- **(6)**: Above average: Maybe there's something they do well compared to everyone else, but not something I will gush about.
+- **(7)**: Great: They do a lot of things really well. There might be somethings I might nitpick about. They might also be not my thing but I see why they're good.
+- **(8)**: Very good. I definitely felt elated, and will remember this meal. There might be some nitpicks or I just felt it's not something I'd rate a 9 or 10 just yet.
+- **(9)**: Outstanding. They are practically perfect for me. I think this is where my scoring would cap. The only way something can top this is if it caters to me heavily AND it's good.
+- **(10)**: THE BEST. I will never stop thinking about this place. It probably both suits my taste and I can also see the quality. Getting a 10 is less quality at this point and more towards emotional appeal for me.
+
+See my first review at [Japonais Bistro Edmonton Review](https://www.reinhardluvr69.com/blogs/review/japonais-bistro-edmonton).
+
+# Random rambling about eating outside
+
+So, let me ramble about something that may affect my reviews.
+
+For me, eating outside is not really about satiating hunger. If I can cook at home, then I will cook at home. If I'm tired, I'll grab something cheap or tried-and-tested. You'll see that mentality reflected in the lower numbers. I like to keep eating outside an experience. It's not just the taste, but it's also the setting, the memories, and how I feel aside from no longer being hungry. Sometimes you'll feel disappointed trying unknown things, but I think it's part of figuring out better things than what you already know or have. [Don't get stuck in a local maxima](https://en.wikipedia.org/wiki/Exploration%E2%80%93exploitation_dilemma)

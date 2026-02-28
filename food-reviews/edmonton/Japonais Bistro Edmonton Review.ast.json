@@ -4,8 +4,8 @@
   "basename": "Japonais Bistro Edmonton Review",
   "stat": {
     "ctime": 1727222400000,
-    "mtime": 1772253401978,
-    "size": 1318
+    "mtime": 1727222400000,
+    "size": 1342
   },
   "tags": [
     "turnip-food-tour",
@@ -17,6 +17,7 @@
   "previewAlt": "Pressed sushi",
   "datePublished": "2024-09-25",
   "tagline": "Wonderful presentation, food-wise and settings-wise. It's good but there's nothing special, and the price isn't helping.",
+  "lastUpdated": "2024-09-25",
   "ast": {
     "settings": {},
     "frontmatter": {
@@ -29,14 +30,15 @@
       "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg",
       "previewAlt": "Pressed sushi",
       "datePublished": "2024-09-25",
-      "tagline": "Wonderful presentation, food-wise and settings-wise. It's good but there's nothing special, and the price isn't helping."
+      "tagline": "Wonderful presentation, food-wise and settings-wise. It's good but there's nothing special, and the price isn't helping.",
+      "lastUpdated": "2024-09-25"
     },
     "ast": {
       "type": "root",
       "children": [
         {
           "type": "yaml",
-          "value": "tags:\n  - turnip-food-tour\n  - food-review\n  - edmonton\nslug: review/japonais-bistro-edmonton\npreview: https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg\npreviewAlt: Pressed sushi\ndatePublished: 2024-09-25\ntagline: Wonderful presentation, food-wise and settings-wise. It's good but there's nothing special, and the price isn't helping."
+          "value": "tags:\n  - turnip-food-tour\n  - food-review\n  - edmonton\nslug: review/japonais-bistro-edmonton\npreview: https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg\npreviewAlt: Pressed sushi\ndatePublished: 2024-09-25\ntagline: Wonderful presentation, food-wise and settings-wise. It's good but there's nothing special, and the price isn't helping.\nlastUpdated: 2024-09-25"
         },
         {
           "type": "paragraph",

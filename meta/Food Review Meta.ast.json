@@ -1,0 +1,421 @@
+{
+  "path": "meta/Food Review Meta.ast.json",
+  "name": "Food Review Meta.md",
+  "basename": "Food Review Meta",
+  "stat": {
+    "ctime": 1772241278014,
+    "mtime": 1772260439424,
+    "size": 2930
+  },
+  "tags": [
+    "food-review",
+    "meta"
+  ],
+  "slug": "meta/food-review",
+  "ast": {
+    "settings": {},
+    "frontmatter": {
+      "tags": [
+        "food-review",
+        "meta"
+      ],
+      "slug": "meta/food-review"
+    },
+    "ast": {
+      "type": "root",
+      "children": [
+        {
+          "type": "yaml",
+          "value": "tags:\n  - food-review\n  - meta\nslug: meta/food-review"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "I created my own CMS on Obsidian so I could post random things in my mind that tweets may not be enough for. One of those long-ish texts I want to post are food blogs."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Who doesn't love food?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Anyways, there might be something you'll notice when I rate food: I rate them "
+            },
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "lower"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " than what most are used to. My friend read one of my reviews, and she was surprised about the contrast between my reaction to eating the food and the numbers I assigned to them. It's not that I hate food nor am I faking it nor do I think I have a higher standard. I just believe that we shouldn't inflate the numbers. "
+            },
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://www.thetokyohibi.com/tabelog",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "I think people that rate in tabelog are way harsher than me, though."
+                }
+              ],
+              "label": "I think people that rate in tabelog are way harsher than me, though.",
+              "identifier": "i think people that rate in tabelog are way harsher than me, though."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Think of the numbers as this way:"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "start": null,
+          "spread": false,
+          "children": [
+            {
+              "type": "listItem",
+              "spread": false,
+              "checked": null,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "type": "strong",
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "(1)"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": ": VERY BAD. Literally harmful"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "spread": false,
+              "checked": null,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "type": "strong",
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "(2)"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": ": BAD. It tastes awful."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "spread": false,
+              "checked": null,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "type": "strong",
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "(3)"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": ": Meh: I regret spending money here and I'd rather cook at home."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "spread": false,
+              "checked": null,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "type": "strong",
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "(4)"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": ": Good: Food might be good but it's debatable whether I'd want to eat here than cook at home."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "spread": false,
+              "checked": null,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "type": "strong",
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "(5)"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": ": Average. I enjoyed the food and think they are worth eating at. I recommend anything here, and it's a place I'd come back to."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "spread": false,
+              "checked": null,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "type": "strong",
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "(6)"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": ": Above average: Maybe there's something they do well compared to everyone else, but not something I will gush about."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "spread": false,
+              "checked": null,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "type": "strong",
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "(7)"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": ": Great: They do a lot of things really well. There might be somethings I might nitpick about. They might also be not my thing but I see why they're good."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "spread": false,
+              "checked": null,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "type": "strong",
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "(8)"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": ": Very good. I definitely felt elated, and will remember this meal. There might be some nitpicks or I just felt it's not something I'd rate a 9 or 10 just yet."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "spread": false,
+              "checked": null,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "type": "strong",
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "(9)"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": ": Outstanding. They are practically perfect for me. I think this is where my scoring would cap. The only way something can top this is if it caters to me heavily AND it's good."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "spread": false,
+              "checked": null,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "type": "strong",
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "(10)"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": ": THE BEST. I will never stop thinking about this place. It probably both suits my taste and I can also see the quality. Getting a 10 is less quality at this point and more towards emotional appeal for me."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "See my first review at "
+            },
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://www.reinhardluvr69.com/blogs/review/japonais-bistro-edmonton",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Japonais Bistro Edmonton Review"
+                }
+              ],
+              "label": "Japonais Bistro Edmonton Review",
+              "identifier": "japonais bistro edmonton review"
+            },
+            {
+              "type": "text",
+              "value": "."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "depth": 1,
+          "children": [
+            {
+              "type": "text",
+              "value": "Random rambling about eating outside"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "So, let me ramble about something that may affect my reviews."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "For me, eating outside is not really about satiating hunger. If I can cook at home, then I will cook at home. If I'm tired, I'll grab something cheap or tried-and-tested. You'll see that mentality reflected in the lower numbers. I like to keep eating outside an experience. It's not just the taste, but it's also the setting, the memories, and how I feel aside from no longer being hungry. Sometimes you'll feel disappointed trying unknown things, but I think it's part of figuring out better things than what you already know or have. "
+            },
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://en.wikipedia.org/wiki/Exploration%E2%80%93exploitation_dilemma",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Don't get stuck in a local maxima"
+                }
+              ],
+              "label": "Don't get stuck in a local maxima",
+              "identifier": "don't get stuck in a local maxima"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

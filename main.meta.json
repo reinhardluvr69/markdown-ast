@@ -1,25 +1,20 @@
 {
   "files": [
     {
-      "path": "food-reviews/edmonton/Japonais Bistro Edmonton Review.ast.json",
-      "name": "Japonais Bistro Edmonton Review.md",
-      "basename": "Japonais Bistro Edmonton Review",
+      "path": "meta/Food Review Meta.ast.json",
+      "name": "Food Review Meta.md",
+      "basename": "Food Review Meta",
       "extension": "md",
       "stat": {
-        "ctime": 1727222400000,
-        "mtime": 1772253401978,
-        "size": 1318
+        "ctime": 1772241278014,
+        "mtime": 1772260439424,
+        "size": 2930
       },
       "tags": [
-        "turnip-food-tour",
         "food-review",
-        "edmonton"
+        "meta"
       ],
-      "slug": "review/japonais-bistro-edmonton",
-      "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg",
-      "previewAlt": "Pressed sushi",
-      "datePublished": "2024-09-25",
-      "tagline": "Wonderful presentation, food-wise and settings-wise. It's good but there's nothing special, and the price isn't helping."
+      "slug": "meta/food-review"
     },
     {
       "path": "events/Niko's 6th birthday.ast.json",
@@ -59,37 +54,67 @@
       "tagline": "Hi look at this seal. I'm testing using Obsidian as my CMS.",
       "previewAlt": "Niko the baikal seal staring at the camera",
       "lastUpdated": "2026-02-15"
+    },
+    {
+      "path": "food-reviews/edmonton/Japonais Bistro Edmonton Review.ast.json",
+      "name": "Japonais Bistro Edmonton Review.md",
+      "basename": "Japonais Bistro Edmonton Review",
+      "extension": "md",
+      "stat": {
+        "ctime": 1727222400000,
+        "mtime": 1727222400000,
+        "size": 1342
+      },
+      "tags": [
+        "turnip-food-tour",
+        "food-review",
+        "edmonton"
+      ],
+      "slug": "review/japonais-bistro-edmonton",
+      "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg",
+      "previewAlt": "Pressed sushi",
+      "datePublished": "2024-09-25",
+      "tagline": "Wonderful presentation, food-wise and settings-wise. It's good but there's nothing special, and the price isn't helping.",
+      "lastUpdated": "2024-09-25"
     }
   ],
   "tags": [
     {
-      "name": "turnip-food-tour",
+      "name": "food-review",
       "entries": [
+        {
+          "path": "meta/Food Review Meta.ast.json",
+          "slug": "meta/food-review"
+        },
         {
           "path": "food-reviews/edmonton/Japonais Bistro Edmonton Review.ast.json",
           "slug": "review/japonais-bistro-edmonton",
           "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg"
+        }
+      ]
+    },
+    {
+      "name": "meta",
+      "entries": [
+        {
+          "path": "meta/Food Review Meta.ast.json",
+          "slug": "meta/food-review"
         },
+        {
+          "path": "First blog post sweg.ast.json",
+          "slug": "first-blog-post",
+          "preview": "niko-baikal-seal.webp"
+        }
+      ]
+    },
+    {
+      "name": "turnip-food-tour",
+      "entries": [
         {
           "path": "events/Niko's 6th birthday.ast.json",
           "slug": "niko-6th-bday",
           "preview": "https://photos.reinhardluvr69.com/photos/24170415-e974-442a-b3c9-85cd048f3916.jpg"
-        }
-      ]
-    },
-    {
-      "name": "food-review",
-      "entries": [
-        {
-          "path": "food-reviews/edmonton/Japonais Bistro Edmonton Review.ast.json",
-          "slug": "review/japonais-bistro-edmonton",
-          "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg"
-        }
-      ]
-    },
-    {
-      "name": "edmonton",
-      "entries": [
+        },
         {
           "path": "food-reviews/edmonton/Japonais Bistro Edmonton Review.ast.json",
           "slug": "review/japonais-bistro-edmonton",
@@ -118,12 +143,12 @@
       ]
     },
     {
-      "name": "meta",
+      "name": "edmonton",
       "entries": [
         {
-          "path": "First blog post sweg.ast.json",
-          "slug": "first-blog-post",
-          "preview": "niko-baikal-seal.webp"
+          "path": "food-reviews/edmonton/Japonais Bistro Edmonton Review.ast.json",
+          "slug": "review/japonais-bistro-edmonton",
+          "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg"
         }
       ]
     }
