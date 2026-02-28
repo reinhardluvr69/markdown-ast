@@ -6,7 +6,7 @@
       "basename": "Japonais Bistro Edmonton Review",
       "extension": "md",
       "stat": {
-        "ctime": 1772240677409,
+        "ctime": 1727222400000,
         "mtime": 1772253401978,
         "size": 1318
       },
@@ -20,23 +20,6 @@
       "previewAlt": "Pressed sushi",
       "datePublished": "2024-09-25",
       "tagline": "Wonderful presentation, food-wise and settings-wise. It's good but there's nothing special, and the price isn't helping."
-    },
-    {
-      "path": "First blog post sweg.ast.json",
-      "name": "First blog post sweg.md",
-      "basename": "First blog post sweg",
-      "extension": "md",
-      "stat": {
-        "ctime": 1771037426607,
-        "mtime": 1772246829607,
-        "size": 511
-      },
-      "tags": [],
-      "slug": "first-blog-post",
-      "preview": "niko-baikal-seal.webp",
-      "tagline": "Hi look at this seal. I'm testing using Obsidian as my CMS.",
-      "previewAlt": "Niko the baikal seal staring at the camera",
-      "lastUpdated": "2026-02-14"
     },
     {
       "path": "events/Niko's 6th birthday.ast.json",
@@ -57,6 +40,25 @@
       "preview": "https://photos.reinhardluvr69.com/photos/24170415-e974-442a-b3c9-85cd048f3916.jpg",
       "previewAlt": "Sushi platter with a picture of Niko the baikal seal under",
       "tagline": "**Happy birthday to the specialest boy in Toba!** Last February 22, 2026, we celebrated Niko's 6th birthday! It's a very special year because it would be the prophesied year that he would be forced to eat cement. Niko holds a special place in my heart. I discovered him mid-2020 through this meme. I soon incorporated him as placeholder art in the video games I was working on. Then, it was all a slippery slope of me getting into seals."
+    },
+    {
+      "path": "First blog post sweg.ast.json",
+      "name": "First blog post sweg.md",
+      "basename": "First blog post sweg",
+      "extension": "md",
+      "stat": {
+        "ctime": 1771037426607,
+        "mtime": 1771113600000,
+        "size": 517
+      },
+      "tags": [
+        "meta"
+      ],
+      "slug": "first-blog-post",
+      "preview": "niko-baikal-seal.webp",
+      "tagline": "Hi look at this seal. I'm testing using Obsidian as my CMS.",
+      "previewAlt": "Niko the baikal seal staring at the camera",
+      "lastUpdated": "2026-02-15"
     }
   ],
   "tags": [
@@ -112,6 +114,16 @@
           "path": "events/Niko's 6th birthday.ast.json",
           "slug": "niko-6th-bday",
           "preview": "https://photos.reinhardluvr69.com/photos/24170415-e974-442a-b3c9-85cd048f3916.jpg"
+        }
+      ]
+    },
+    {
+      "name": "meta",
+      "entries": [
+        {
+          "path": "First blog post sweg.ast.json",
+          "slug": "first-blog-post",
+          "preview": "niko-baikal-seal.webp"
         }
       ]
     }

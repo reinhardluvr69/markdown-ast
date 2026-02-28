@@ -4,31 +4,35 @@
   "basename": "First blog post sweg",
   "stat": {
     "ctime": 1771037426607,
-    "mtime": 1772246829607,
-    "size": 511
+    "mtime": 1771113600000,
+    "size": 517
   },
-  "tags": [],
+  "tags": [
+    "meta"
+  ],
   "slug": "first-blog-post",
   "preview": "niko-baikal-seal.webp",
   "tagline": "Hi look at this seal. I'm testing using Obsidian as my CMS.",
   "previewAlt": "Niko the baikal seal staring at the camera",
-  "lastUpdated": "2026-02-14",
+  "lastUpdated": "2026-02-15",
   "ast": {
     "settings": {},
     "frontmatter": {
-      "tags": [],
+      "tags": [
+        "meta"
+      ],
       "slug": "first-blog-post",
       "preview": "[[BlogBase/reinhardluvr69 Blog/niko-baikal-seal.webp]]",
       "tagline": "Hi look at this seal. I'm testing using Obsidian as my CMS.",
       "previewAlt": "Niko the baikal seal staring at the camera",
-      "lastUpdated": "2026-02-14"
+      "lastUpdated": "2026-02-15"
     },
     "ast": {
       "type": "root",
       "children": [
         {
           "type": "yaml",
-          "value": "tags: []\nslug: first-blog-post\npreview: \"[[BlogBase/reinhardluvr69 Blog/niko-baikal-seal.webp]]\"\ntagline: Hi look at this seal. I'm testing using Obsidian as my CMS.\npreviewAlt: Niko the baikal seal staring at the camera\nlastUpdated: 2026-02-14"
+          "value": "tags:\n  - meta\nslug: first-blog-post\npreview: \"[[BlogBase/reinhardluvr69 Blog/niko-baikal-seal.webp]]\"\ntagline: Hi look at this seal. I'm testing using Obsidian as my CMS.\npreviewAlt: Niko the baikal seal staring at the camera\nlastUpdated: 2026-02-15"
         },
         {
           "type": "paragraph",
