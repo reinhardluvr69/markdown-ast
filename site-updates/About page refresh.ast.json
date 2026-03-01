@@ -4,10 +4,10 @@
   "basename": "About page refresh",
   "stat": {
     "ctime": 1772360546757,
-    "mtime": 1772362089907,
-    "size": 2144
+    "mtime": 1772363026862,
+    "size": 2327
   },
-  "tagline": "Please give the about page a try! We've finally utilized the dialog system that's been lying there since 2013, and I've gamified the page too!",
+  "tagline": "Please give the new about page a try! I'm mostly talking about the expanded dialog system. We've finally utilized the dialog system that's been lying there since 2023, and I've gamified the page too!",
   "tags": [
     "meta",
     "site-updates"
@@ -18,7 +18,7 @@
   "ast": {
     "settings": {},
     "frontmatter": {
-      "tagline": "Please give the about page a try! We've finally utilized the dialog system that's been lying there since 2013, and I've gamified the page too!",
+      "tagline": "Please give the new about page a try! I'm mostly talking about the expanded dialog system. We've finally utilized the dialog system that's been lying there since 2023, and I've gamified the page too!",
       "tags": [
         "meta",
         "site-updates"
@@ -31,7 +31,7 @@
       "children": [
         {
           "type": "yaml",
-          "value": "tagline: Please give the about page a try! We've finally utilized the dialog system that's been lying there since 2013, and I've gamified the page too!\ntags:\n  - meta\n  - site-updates\npreview: \"[[new-layout.png]]\"\npreviewAlt: Screenshot of new page layout featuring cards with hidden information and a progress bar showing how many has been revealed so far"
+          "value": "tagline: Please give the new about page a try! I'm mostly talking about the expanded dialog system. We've finally utilized the dialog system that's been lying there since 2023, and I've gamified the page too!\ntags:\n  - meta\n  - site-updates\npreview: \"[[new-layout.png]]\"\npreviewAlt: Screenshot of new page layout featuring cards with hidden information and a progress bar showing how many has been revealed so far"
         },
         {
           "type": "blockquote",
@@ -148,7 +148,16 @@
           "children": [
             {
               "type": "text",
-              "value": "If you've tried the dialog above, you'll know that the dialog tree was as simple as this. I don't know why I never expanded the dialog tree when all the functionalities were already implemented in 2023. It could have been bigger than this."
+              "value": "If you've tried the dialog above, you'll know that the dialog tree was as simple as this. I don't know why I never expanded the dialog tree when all the functionalities were already implemented in 2023. It could have been bigger than this, but I think I hesitated because I did not have faith in my writing skills."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "I'll just write random stuff up. It's fun anyway."
             }
           ]
         },
