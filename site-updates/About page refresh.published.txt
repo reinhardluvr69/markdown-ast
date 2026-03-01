@@ -1,0 +1,38 @@
+---
+tagline: Please give the about page a try! We've finally utilized the dialog system that's been lying there since 2013, and I've gamified the page too!
+tags:
+  - meta
+  - site-updates
+preview: "[[new-layout.png]]"
+previewAlt: Screenshot of new page layout featuring cards with hidden information and a progress bar showing how many has been revealed so far
+---
+
+> **Hiiiiii!**
+
+**Warning:** There's a blurry screenshot of the dialog graph below which may give you an idea what to expect when choosing options. Go to the [About Page](https://www.reinhardluvr69.com/about) now if you want to just go there.
+
+Anyways~
+
+I've updated my About page with new dialog. I have this whole ass dialog system lying around, but I never really utilized it to this day. I think there's a lot to polish here like adding images and probably drawing some assets for the cards.
+
+# The old-ish
+
+I'm putting a screenshot of the old About page below. It might be cleaner than the new one, but I like to be more insane and have more flare in the experience department. This isn't exactly the old About page since I've incrementally updated the UI with the brand new UI framework.
+
+![[old-layout.png]]
+
+If you've tried the dialog above, you'll know that the dialog tree was as simple as this. I don't know why I never expanded the dialog tree when all the functionalities were already implemented in 2023. It could have been bigger than this.
+
+![[old-yarn-graph.png]]
+
+## The New
+
+The new layout is very cluttered and chaotic. It's also gamified. So, basically it's worse, but that's okay. The point is I put a bunch of interactive stuff here. Well, at least around the dialog. You can tell that I kinda gave up at some point too. I'll add more things quietly later since I've refined my systems really well for the last three years.
+
+![[new-layout.png]]
+
+The new dialog ~~tree~~ graph now looks like this. Is this a spoiler? Maybe… It's composed of two other files but I don't think it's as relevant as this.
+
+![[new-yarn-graph.png]]
+
+Eepy… check out my [About Page](https://www.reinhardluvr69.com/about) that I totally did not proofread or tested thoroughly.

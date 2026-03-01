@@ -1,0 +1,35 @@
+{
+  "$schema": "https://schema.org/docs/jsonldcontext.json",
+  "@context": "https://schema.org",
+  "@type": "Brand",
+  "datePublished": "2026-02-28",
+  "name": "Tony's Chocolonely",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "reviewCount": "1",
+    "bestRating": 10,
+    "worstRating": 1
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "turnip"
+      },
+      "itemReviewed": {
+        "@type": "Product",
+        "name": "Tony's Chocolonely Milk Chocolate Caramel Salt"
+      },
+      "datePublished": "2026-02-28",
+      "reviewBody": "I hate caramel but this is surprisingly good for chocolate caramel",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "10",
+        "ratingValue": "4",
+        "worstRating": "1"
+      }
+    }
+  ]
+}

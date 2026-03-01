@@ -1,0 +1,269 @@
+{
+  "path": "site-updates/About page refresh.ast.json",
+  "name": "About page refresh.md",
+  "basename": "About page refresh",
+  "stat": {
+    "ctime": 1772360546757,
+    "mtime": 1772362089907,
+    "size": 2144
+  },
+  "tagline": "Please give the about page a try! We've finally utilized the dialog system that's been lying there since 2013, and I've gamified the page too!",
+  "tags": [
+    "meta",
+    "site-updates"
+  ],
+  "preview": "site-updates/about-page-refresh-asset/new-layout.png",
+  "previewAlt": "Screenshot of new page layout featuring cards with hidden information and a progress bar showing how many has been revealed so far",
+  "slug": "about-page-refresh",
+  "ast": {
+    "settings": {},
+    "frontmatter": {
+      "tagline": "Please give the about page a try! We've finally utilized the dialog system that's been lying there since 2013, and I've gamified the page too!",
+      "tags": [
+        "meta",
+        "site-updates"
+      ],
+      "preview": "[[new-layout.png]]",
+      "previewAlt": "Screenshot of new page layout featuring cards with hidden information and a progress bar showing how many has been revealed so far"
+    },
+    "ast": {
+      "type": "root",
+      "children": [
+        {
+          "type": "yaml",
+          "value": "tagline: Please give the about page a try! We've finally utilized the dialog system that's been lying there since 2013, and I've gamified the page too!\ntags:\n  - meta\n  - site-updates\npreview: \"[[new-layout.png]]\"\npreviewAlt: Screenshot of new page layout featuring cards with hidden information and a progress bar showing how many has been revealed so far"
+        },
+        {
+          "type": "blockquote",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "strong",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Hiiiiii!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Warning:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " There's a blurry screenshot of the dialog graph below which may give you an idea what to expect when choosing options. Go to the "
+            },
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://www.reinhardluvr69.com/about",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "About Page"
+                }
+              ],
+              "label": "About Page",
+              "identifier": "about page"
+            },
+            {
+              "type": "text",
+              "value": " now if you want to just go there."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Anyways~"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "I've updated my About page with new dialog. I have this whole ass dialog system lying around, but I never really utilized it to this day. I think there's a lot to polish here like adding images and probably drawing some assets for the cards."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "depth": 1,
+          "children": [
+            {
+              "type": "text",
+              "value": "The old-ish"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "I'm putting a screenshot of the old About page below. It might be cleaner than the new one, but I like to be more insane and have more flare in the experience department. This isn't exactly the old About page since I've incrementally updated the UI with the brand new UI framework."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "embedWikilink",
+              "value": "old-layout.png",
+              "fileAccessor": {
+                "target": "old-layout.png",
+                "isEmbed": true,
+                "stats": {
+                  "ctime": 1772360902341,
+                  "mtime": 1772360902342,
+                  "size": 332998
+                },
+                "basePath": "site-updates/about-page-refresh-asset/old-layout.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "If you've tried the dialog above, you'll know that the dialog tree was as simple as this. I don't know why I never expanded the dialog tree when all the functionalities were already implemented in 2023. It could have been bigger than this."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "embedWikilink",
+              "value": "old-yarn-graph.png",
+              "fileAccessor": {
+                "target": "old-yarn-graph.png",
+                "isEmbed": true,
+                "stats": {
+                  "ctime": 1772360663679,
+                  "mtime": 1772360663680,
+                  "size": 564973
+                },
+                "basePath": "site-updates/about-page-refresh-asset/old-yarn-graph.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "depth": 2,
+          "children": [
+            {
+              "type": "text",
+              "value": "The New"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "The new layout is very cluttered and chaotic. It's also gamified. So, basically it's worse, but that's okay. The point is I put a bunch of interactive stuff here. Well, at least around the dialog. You can tell that I kinda gave up at some point too. I'll add more things quietly later since I've refined my systems really well for the last three years."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "embedWikilink",
+              "value": "new-layout.png",
+              "fileAccessor": {
+                "target": "new-layout.png",
+                "isEmbed": true,
+                "stats": {
+                  "ctime": 1772360831795,
+                  "mtime": 1772360831822,
+                  "size": 472382
+                },
+                "basePath": "site-updates/about-page-refresh-asset/new-layout.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "The new dialog ~~tree~~ graph now looks like this. Is this a spoiler? Maybe… It's composed of two other files but I don't think it's as relevant as this."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "embedWikilink",
+              "value": "new-yarn-graph.png",
+              "fileAccessor": {
+                "target": "new-yarn-graph.png",
+                "isEmbed": true,
+                "stats": {
+                  "ctime": 1772361006481,
+                  "mtime": 1772361006491,
+                  "size": 100380
+                },
+                "basePath": "site-updates/about-page-refresh-asset/new-yarn-graph.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Eepy… check out my "
+            },
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://www.reinhardluvr69.com/about",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "About Page"
+                }
+              ],
+              "label": "About Page",
+              "identifier": "about page"
+            },
+            {
+              "type": "text",
+              "value": " that I totally did not proofread or tested thoroughly."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

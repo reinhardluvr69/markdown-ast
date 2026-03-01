@@ -1,6 +1,25 @@
 {
   "files": [
     {
+      "path": "site-updates/About page refresh.ast.json",
+      "name": "About page refresh.md",
+      "basename": "About page refresh",
+      "extension": "md",
+      "stat": {
+        "ctime": 1772360546757,
+        "mtime": 1772362089907,
+        "size": 2144
+      },
+      "tagline": "Please give the about page a try! We've finally utilized the dialog system that's been lying there since 2013, and I've gamified the page too!",
+      "tags": [
+        "meta",
+        "site-updates"
+      ],
+      "preview": "site-updates/about-page-refresh-asset/new-layout.png",
+      "previewAlt": "Screenshot of new page layout featuring cards with hidden information and a progress bar showing how many has been revealed so far",
+      "slug": "about-page-refresh"
+    },
+    {
       "path": "meta/Food Review Meta.ast.json",
       "name": "Food Review Meta.md",
       "basename": "Food Review Meta",
@@ -64,7 +83,7 @@
       "stat": {
         "ctime": 1727222400000,
         "mtime": 1727222400000,
-        "size": 1344
+        "size": 1424
       },
       "tags": [
         "turnip-food-tour",
@@ -81,6 +100,35 @@
   ],
   "tags": [
     {
+      "name": "meta",
+      "entries": [
+        {
+          "path": "site-updates/About page refresh.ast.json",
+          "slug": "about-page-refresh",
+          "preview": "site-updates/about-page-refresh-asset/new-layout.png"
+        },
+        {
+          "path": "meta/Food Review Meta.ast.json",
+          "slug": "meta/food-review"
+        },
+        {
+          "path": "First blog post sweg.ast.json",
+          "slug": "first-blog-post",
+          "preview": "niko-baikal-seal.webp"
+        }
+      ]
+    },
+    {
+      "name": "site-updates",
+      "entries": [
+        {
+          "path": "site-updates/About page refresh.ast.json",
+          "slug": "about-page-refresh",
+          "preview": "site-updates/about-page-refresh-asset/new-layout.png"
+        }
+      ]
+    },
+    {
       "name": "food-review",
       "entries": [
         {
@@ -91,20 +139,6 @@
           "path": "food-reviews/edmonton/Japonais Bistro Edmonton Review.ast.json",
           "slug": "review/japonais-bistro-edmonton",
           "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg"
-        }
-      ]
-    },
-    {
-      "name": "meta",
-      "entries": [
-        {
-          "path": "meta/Food Review Meta.ast.json",
-          "slug": "meta/food-review"
-        },
-        {
-          "path": "First blog post sweg.ast.json",
-          "slug": "first-blog-post",
-          "preview": "niko-baikal-seal.webp"
         }
       ]
     },

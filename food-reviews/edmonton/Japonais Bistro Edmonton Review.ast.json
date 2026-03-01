@@ -5,7 +5,7 @@
   "stat": {
     "ctime": 1727222400000,
     "mtime": 1727222400000,
-    "size": 1344
+    "size": 1424
   },
   "tags": [
     "turnip-food-tour",
@@ -61,7 +61,24 @@
           "children": [
             {
               "type": "text",
-              "value": "Good sushi. Wonderful presentation. Wasabi isn't as good as Sushi Wasabi. I could barely taste the spiciness in TNT Sushi, if there is at all. Otherwise, the TNT Sushi has good smoky aftertaste and nice creamy flavor. Just gotta remember to wash my palette with some good ole ginger. The Pressed Salmon Sushi is the typical sushi I expect. It's delicious but nothing that I've already tasted elsewhere. It's a wonderful combination of crispy tempura bit texture and creamy texture. You can never go wrong with salmon and the caviar is non-trivially served. The TNT's rice was noticeably better than this but does not detract the typical sushi experience I at least expect. Doesn't mean it's bad, but it's not exceptional. The Raspberry Calpico Fizz drink is okay. There's a nice contrast between the fruit and soda. Nothing special but it's still good."
+              "value": "Good sushi. Wonderful presentation. Wasabi isn't as good as "
+            },
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://www.facebook.com/pages/Sushi-Wasabi/127780533928708",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Sushi Wasabi Edmonton"
+                }
+              ],
+              "label": "Sushi Wasabi Edmonton",
+              "identifier": "sushi wasabi edmonton"
+            },
+            {
+              "type": "text",
+              "value": ". I could barely taste the spiciness in their TNT Sushi, if there is at all. Otherwise, the TNT Sushi has a good smoky aftertaste and nice creamy flavor, just gotta remember to wash my palette with some good ole ginger. The Pressed Salmon Sushi is the typical sushi I expect. It's delicious but nothing that I've already tasted elsewhere. It's a wonderful combination of crispy tempura bit texture and creamy texture. You can never go wrong with salmon and the caviar is non-trivially served. The TNT's rice was noticeably better than this but does not detract the typical sushi experience I at least expect. Doesn't mean it's bad, but it's not exceptional. The Raspberry Calpico Fizz drink is okay. There's a nice contrast between the fruit and soda. Nothing special but it's still good."
             }
           ]
         }
