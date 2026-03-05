@@ -1,0 +1,132 @@
+{
+  "path": "events/Happy tumblr's Cake Day 2026.ast.json",
+  "name": "Happy tumblr's Cake Day 2026.md",
+  "basename": "Happy tumblr's Cake Day 2026",
+  "stat": {
+    "ctime": 1772519707733,
+    "mtime": 1772685554733,
+    "size": 1590
+  },
+  "tags": [
+    "snacks",
+    "turnip-food-tour"
+  ],
+  "preview": "https://photos.reinhardluvr69.com/photos/0f4ddec0-2c68-44fc-a0d0-0cdbb173e4e6.jpg",
+  "tagline": "Every March 2, we eat cake for absolutely no reason at all. Just eat cake.",
+  "slug": "happy-tumblr's-cake-day-2026",
+  "ast": {
+    "settings": {},
+    "frontmatter": {
+      "tags": [
+        "snacks",
+        "turnip-food-tour"
+      ],
+      "preview": "https://photos.reinhardluvr69.com/photos/0f4ddec0-2c68-44fc-a0d0-0cdbb173e4e6.jpg",
+      "tagline": "Every March 2, we eat cake for absolutely no reason at all. Just eat cake."
+    },
+    "ast": {
+      "type": "root",
+      "children": [
+        {
+          "type": "yaml",
+          "value": "tags:\n  - snacks\n  - turnip-food-tour\npreview: https://photos.reinhardluvr69.com/photos/0f4ddec0-2c68-44fc-a0d0-0cdbb173e4e6.jpg\ntagline: Every March 2, we eat cake for absolutely no reason at all. Just eat cake."
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://photos.reinhardluvr69.com/photos/0f4ddec0-2c68-44fc-a0d0-0cdbb173e4e6.jpg",
+              "children": [
+                {
+                  "type": "image",
+                  "title": null,
+                  "url": "https://photos.reinhardluvr69.com/photos/0f4ddec0-2c68-44fc-a0d0-0cdbb173e4e6.jpg",
+                  "alt": "PXL_20260302_181909095.jpg",
+                  "label": "PXL_20260302_181909095.jpg",
+                  "identifier": "pxl_20260302_181909095.jpg"
+                }
+              ],
+              "label": "![PXL_20260302_181909095.jpg](https://photos.reinhardluvr69.com/photos/0f4ddec0-2c68-44fc-a0d0-0cdbb173e4e6.jpg)",
+              "identifier": "![pxl_20260302_181909095.jpg](https://photos.reinhardluvr69.com/photos/0f4ddec0-2c68-44fc-a0d0-0cdbb173e4e6.jpg)"
+            }
+          ]
+        },
+        {
+          "type": "blockquote",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "my strangest legacy - in high school, for one reason or another (I can't remember) my friends and I wrote \"34 days until March 2nd\" on the whiteboard in the drama classroom. It was completely arbitrary but we kept it it up, \"30 days until March 2nd\"  \"23 days until March 2nd\" etc. It spread around enough that the entire school is buzzing about what is going to happen on March 2nd. We figure we should think of something and decide to bring in cake. There were about 13 of us in total committed to bringing a cake. On March 2nd, during 3rd period lunch we all entered the cafeteria in a line (the parade of the cakes) and laid them out—a grand cake buffet for everyone in that lunch period. We did it the next year. And after we graduated it kept going."
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "start": null,
+              "spread": false,
+              "children": [
+                {
+                  "type": "listItem",
+                  "spread": false,
+                  "checked": null,
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "type": "link",
+                          "title": null,
+                          "url": "https://www.tumblr.com/catceleste/109344038910/catceleste-my-strangest-legacy-in-high-school",
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "catceleste from tumblr"
+                            }
+                          ],
+                          "label": "catceleste from tumblr",
+                          "identifier": "catceleste from tumblr"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "I was to eepy to post this during the same day but happy cake day! "
+            },
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://www.reddit.com/r/NewToReddit/comments/136fr06/whats_a_cake_day_and_what_happens_that_day/",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Not be confused with Reddit's cake day."
+                }
+              ],
+              "label": "Not be confused with Reddit's cake day.",
+              "identifier": "not be confused with reddit's cake day."
+            },
+            {
+              "type": "text",
+              "value": " I've made it a thing, since as far back as 2016 to grab cake on March 2."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

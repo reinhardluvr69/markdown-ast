@@ -41,12 +41,50 @@
         "@type": "Product",
         "name": "Tony's Chocolonely Milk Chocolate"
       },
-      "datePublished": "2026-02-28",
+      "datePublished": "2026-03-01",
       "reviewBody": "A better version of what's out there with an equivalent price markup. Nothing special.",
       "reviewRating": {
         "@type": "Rating",
         "bestRating": "10",
         "ratingValue": "4",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "turnip"
+      },
+      "itemReviewed": {
+        "@type": "Product",
+        "name": "Tony's Chocolonely Milk Chocolate Hazelnut"
+      },
+      "datePublished": "2026-03-02",
+      "reviewBody": "Absolutely boring. Nothing to really write about. Just your typical chocolate hazelnut.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "10",
+        "ratingValue": "4",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "turnip"
+      },
+      "itemReviewed": {
+        "@type": "Product",
+        "name": "Tony's Chocolonely Dark Chocolate"
+      },
+      "datePublished": "2026-03-04",
+      "reviewBody": "When I finally, had the a flavor I was looking forward to, it just ended up underwhelming.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "10",
+        "ratingValue": "3.5",
         "worstRating": "1"
       }
     }
