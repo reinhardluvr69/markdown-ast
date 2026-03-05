@@ -4,8 +4,8 @@
   "basename": "Tony's Chocolonely Review",
   "stat": {
     "ctime": 1772308456008,
-    "mtime": 1772685508257,
-    "size": 4469
+    "mtime": 1772739014662,
+    "size": 4380
   },
   "tags": [
     "food-review",
@@ -162,23 +162,6 @@
               ],
               "label": "![Tony's Chocoloney Milk Chocolate|322](https://photos.reinhardluvr69.com/photos/7a95da7f-f513-4c6b-95f6-e92ce2989b41.jpg)",
               "identifier": "![tony's chocoloney milk chocolate|322](https://photos.reinhardluvr69.com/photos/7a95da7f-f513-4c6b-95f6-e92ce2989b41.jpg)"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "type": "html",
-              "value": "<span data-obsidian-type=\"rating\" data-rating-name=\"milk-chocolage\">"
-            },
-            {
-              "type": "text",
-              "value": "Rating: 4/10"
-            },
-            {
-              "type": "html",
-              "value": "</span>"
             }
           ]
         },
