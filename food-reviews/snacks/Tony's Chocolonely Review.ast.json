@@ -4,14 +4,14 @@
   "basename": "Tony's Chocolonely Review",
   "stat": {
     "ctime": 1772308456008,
-    "mtime": 1772684746374,
-    "size": 4451
+    "mtime": 1772685508257,
+    "size": 4469
   },
   "tags": [
     "food-review",
     "snacks"
   ],
-  "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg",
+  "preview": "https://photos.reinhardluvr69.com/photos/bf2dc68e-2afd-47f4-b427-40da195faf2a.jpg",
   "previewAlt": "A box of assorted Tony's Chocolonely chocolate bars",
   "tagline": "4/10. It's good chocolate but nothing special. I would not intentionally buy some again unless I want to try them out.",
   "slug": "tony's-chocolonely-review",
@@ -22,7 +22,7 @@
         "food-review",
         "snacks"
       ],
-      "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg",
+      "preview": "https://photos.reinhardluvr69.com/photos/bf2dc68e-2afd-47f4-b427-40da195faf2a.jpg",
       "previewAlt": "A box of assorted Tony's Chocolonely chocolate bars",
       "tagline": "4/10. It's good chocolate but nothing special. I would not intentionally buy some again unless I want to try them out."
     },
@@ -31,7 +31,7 @@
       "children": [
         {
           "type": "yaml",
-          "value": "tags:\n  - food-review\n  - snacks\npreview: https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg\npreviewAlt: A box of assorted Tony's Chocolonely chocolate bars\ntagline: 4/10. It's good chocolate but nothing special. I would not intentionally buy some again unless I want to try them out."
+          "value": "tags:\n  - food-review\n  - snacks\npreview: https://photos.reinhardluvr69.com/photos/bf2dc68e-2afd-47f4-b427-40da195faf2a.jpg\npreviewAlt: A box of assorted Tony's Chocolonely chocolate bars\ntagline: 4/10. It's good chocolate but nothing special. I would not intentionally buy some again unless I want to try them out."
         },
         {
           "type": "blockquote",
@@ -240,13 +240,13 @@
                   "type": "image",
                   "title": null,
                   "url": "https://photos.reinhardluvr69.com/photos/80ee1a42-f1b1-49e2-9ae7-527c4c465ca9.jpg",
-                  "alt": "20260303_175151.jpg",
-                  "label": "20260303_175151.jpg",
-                  "identifier": "20260303_175151.jpg"
+                  "alt": "20260303_175151.jpg|296",
+                  "label": "20260303_175151.jpg|296",
+                  "identifier": "20260303_175151.jpg|296"
                 }
               ],
-              "label": "![20260303_175151.jpg](https://photos.reinhardluvr69.com/photos/80ee1a42-f1b1-49e2-9ae7-527c4c465ca9.jpg)",
-              "identifier": "![20260303_175151.jpg](https://photos.reinhardluvr69.com/photos/80ee1a42-f1b1-49e2-9ae7-527c4c465ca9.jpg)"
+              "label": "![20260303_175151.jpg|296](https://photos.reinhardluvr69.com/photos/80ee1a42-f1b1-49e2-9ae7-527c4c465ca9.jpg)",
+              "identifier": "![20260303_175151.jpg|296](https://photos.reinhardluvr69.com/photos/80ee1a42-f1b1-49e2-9ae7-527c4c465ca9.jpg)"
             }
           ]
         },
@@ -258,7 +258,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Absolutely boring. Nothing to really write about. Just your typical hazelnut."
+                  "value": "Absolutely boring. Nothing to really write about. Just your typical chocolate hazelnut."
                 }
               ]
             }
@@ -286,13 +286,13 @@
                   "type": "image",
                   "title": null,
                   "url": "https://photos.reinhardluvr69.com/photos/26b2c132-b620-44e9-9a37-aa0aa3a936a4.jpg",
-                  "alt": "20260304_182239.jpg",
-                  "label": "20260304_182239.jpg",
-                  "identifier": "20260304_182239.jpg"
+                  "alt": "20260304_182239.jpg|322",
+                  "label": "20260304_182239.jpg|322",
+                  "identifier": "20260304_182239.jpg|322"
                 }
               ],
-              "label": "![20260304_182239.jpg](https://photos.reinhardluvr69.com/photos/26b2c132-b620-44e9-9a37-aa0aa3a936a4.jpg)",
-              "identifier": "![20260304_182239.jpg](https://photos.reinhardluvr69.com/photos/26b2c132-b620-44e9-9a37-aa0aa3a936a4.jpg)"
+              "label": "![20260304_182239.jpg|322](https://photos.reinhardluvr69.com/photos/26b2c132-b620-44e9-9a37-aa0aa3a936a4.jpg)",
+              "identifier": "![20260304_182239.jpg|322](https://photos.reinhardluvr69.com/photos/26b2c132-b620-44e9-9a37-aa0aa3a936a4.jpg)"
             }
           ]
         },

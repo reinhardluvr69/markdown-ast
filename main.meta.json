@@ -25,14 +25,14 @@
       "extension": "md",
       "stat": {
         "ctime": 1772308456008,
-        "mtime": 1772684746374,
-        "size": 4451
+        "mtime": 1772685508257,
+        "size": 4469
       },
       "tags": [
         "food-review",
         "snacks"
       ],
-      "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg",
+      "preview": "https://photos.reinhardluvr69.com/photos/bf2dc68e-2afd-47f4-b427-40da195faf2a.jpg",
       "previewAlt": "A box of assorted Tony's Chocolonely chocolate bars",
       "tagline": "4/10. It's good chocolate but nothing special. I would not intentionally buy some again unless I want to try them out.",
       "slug": "tony's-chocolonely-review"
@@ -147,7 +147,7 @@
         {
           "path": "food-reviews/snacks/Tony's Chocolonely Review.ast.json",
           "slug": "tony's-chocolonely-review",
-          "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg"
+          "preview": "https://photos.reinhardluvr69.com/photos/bf2dc68e-2afd-47f4-b427-40da195faf2a.jpg"
         }
       ]
     },
@@ -177,7 +177,7 @@
         {
           "path": "food-reviews/snacks/Tony's Chocolonely Review.ast.json",
           "slug": "tony's-chocolonely-review",
-          "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg"
+          "preview": "https://photos.reinhardluvr69.com/photos/bf2dc68e-2afd-47f4-b427-40da195faf2a.jpg"
         },
         {
           "path": "meta/Food Review Meta.ast.json",
