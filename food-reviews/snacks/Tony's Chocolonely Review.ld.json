@@ -20,10 +20,29 @@
       },
       "itemReviewed": {
         "@type": "Product",
-        "name": "Tony's Chocolonely Milk Chocolate Caramel Salt"
+        "name": "Tony's Chocolonely Milk Chocolate Caramel Sea Salt"
       },
       "datePublished": "2026-02-28",
-      "reviewBody": "I hate caramel but this is surprisingly good for chocolate caramel",
+      "reviewBody": "I hate caramel but this is surprisingly good for chocolate caramel.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "10",
+        "ratingValue": "4",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "turnip"
+      },
+      "itemReviewed": {
+        "@type": "Product",
+        "name": "Tony's Chocolonely Milk Chocolate"
+      },
+      "datePublished": "2026-02-28",
+      "reviewBody": "A better version of what's out there with an equivalent price markup. Nothing special.",
       "reviewRating": {
         "@type": "Rating",
         "bestRating": "10",

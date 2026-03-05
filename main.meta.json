@@ -1,6 +1,25 @@
 {
   "files": [
     {
+      "path": "food-reviews/snacks/Tony's Chocolonely Review.ast.json",
+      "name": "Tony's Chocolonely Review.md",
+      "basename": "Tony's Chocolonely Review",
+      "extension": "md",
+      "stat": {
+        "ctime": 1772308456008,
+        "mtime": 1772682940943,
+        "size": 3920
+      },
+      "tags": [
+        "food-review",
+        "snacks"
+      ],
+      "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg",
+      "previewAlt": "A box of assorted Tony's Chocolonely chocolate bars",
+      "tagline": "4/10. It's good chocolate but nothing special. I would not intentionally buy some again unless I want to try them out.",
+      "slug": "tony's-chocolonely-review"
+    },
+    {
       "path": "site-updates/About page refresh.ast.json",
       "name": "About page refresh.md",
       "basename": "About page refresh",
@@ -100,6 +119,35 @@
   ],
   "tags": [
     {
+      "name": "food-review",
+      "entries": [
+        {
+          "path": "food-reviews/snacks/Tony's Chocolonely Review.ast.json",
+          "slug": "tony's-chocolonely-review",
+          "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg"
+        },
+        {
+          "path": "meta/Food Review Meta.ast.json",
+          "slug": "meta/food-review"
+        },
+        {
+          "path": "food-reviews/edmonton/Japonais Bistro Edmonton Review.ast.json",
+          "slug": "review/japonais-bistro-edmonton",
+          "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg"
+        }
+      ]
+    },
+    {
+      "name": "snacks",
+      "entries": [
+        {
+          "path": "food-reviews/snacks/Tony's Chocolonely Review.ast.json",
+          "slug": "tony's-chocolonely-review",
+          "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg"
+        }
+      ]
+    },
+    {
       "name": "meta",
       "entries": [
         {
@@ -125,20 +173,6 @@
           "path": "site-updates/About page refresh.ast.json",
           "slug": "about-page-refresh",
           "preview": "site-updates/about-page-refresh-asset/new-layout.png"
-        }
-      ]
-    },
-    {
-      "name": "food-review",
-      "entries": [
-        {
-          "path": "meta/Food Review Meta.ast.json",
-          "slug": "meta/food-review"
-        },
-        {
-          "path": "food-reviews/edmonton/Japonais Bistro Edmonton Review.ast.json",
-          "slug": "review/japonais-bistro-edmonton",
-          "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg"
         }
       ]
     },

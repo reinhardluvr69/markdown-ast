@@ -1,0 +1,268 @@
+{
+  "path": "food-reviews/snacks/Tony's Chocolonely Review.ast.json",
+  "name": "Tony's Chocolonely Review.md",
+  "basename": "Tony's Chocolonely Review",
+  "stat": {
+    "ctime": 1772308456008,
+    "mtime": 1772682940943,
+    "size": 3920
+  },
+  "tags": [
+    "food-review",
+    "snacks"
+  ],
+  "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg",
+  "previewAlt": "A box of assorted Tony's Chocolonely chocolate bars",
+  "tagline": "4/10. It's good chocolate but nothing special. I would not intentionally buy some again unless I want to try them out.",
+  "slug": "tony's-chocolonely-review",
+  "ast": {
+    "settings": {},
+    "frontmatter": {
+      "tags": [
+        "food-review",
+        "snacks"
+      ],
+      "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg",
+      "previewAlt": "A box of assorted Tony's Chocolonely chocolate bars",
+      "tagline": "4/10. It's good chocolate but nothing special. I would not intentionally buy some again unless I want to try them out."
+    },
+    "ast": {
+      "type": "root",
+      "children": [
+        {
+          "type": "yaml",
+          "value": "tags:\n  - food-review\n  - snacks\npreview: https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg\npreviewAlt: A box of assorted Tony's Chocolonely chocolate bars\ntagline: 4/10. It's good chocolate but nothing special. I would not intentionally buy some again unless I want to try them out."
+        },
+        {
+          "type": "blockquote",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Current verdict: 4/10. It's good chocolate but nothing special. I would not intentionally buy some again unless I want to try them out."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "This week, I'm trying out Tony's Chocolonely's assorted six pack everyday. I'm just picking randomly."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "image",
+              "title": null,
+              "url": "https://photos.reinhardluvr69.com/photos/bf2dc68e-2afd-47f4-b427-40da195faf2a.jpg",
+              "alt": "Tony's Chocoloney Taster Box|262",
+              "label": "Tony's Chocoloney Taster Box|262",
+              "identifier": "tony's chocoloney taster box|262"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "depth": 1,
+          "children": [
+            {
+              "type": "text",
+              "value": "Day 1: Milk chocolate caramel sea salt"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "image",
+              "title": null,
+              "url": "https://photos.reinhardluvr69.com/photos/f624acf6-852d-4240-a135-a1de15a24cfb.jpg",
+              "alt": "Tony's Chocoloney Milk Chocolate Caramel Sea Salt|249",
+              "label": "Tony's Chocoloney Milk Chocolate Caramel Sea Salt|249",
+              "identifier": "tony's chocoloney milk chocolate caramel sea salt|249"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "html",
+              "value": "<span data-obsidian-type=\"rating\" data-rating-name=\"caramel\">"
+            },
+            {
+              "type": "text",
+              "value": "Rating: 4/10"
+            },
+            {
+              "type": "html",
+              "value": "</span>"
+            }
+          ]
+        },
+        {
+          "type": "blockquote",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "I hate caramel but this is surprisingly good for chocolate caramel."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Going into to tasting this, I will admit I am not enthusiastic since I dislike caramel chocolate. I dislike the chewy, gooey texture from caramel. This last December 2025, there was also a chocolate trend where it seemed like chocolate caramel was the next big thing, right besides the Dubai Chocolate being sold under liquidation sale prices."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "It's better than I expected but I have a heavy bias against caramels. I would have went for 3.5 instead of 4 but it being the best chocolate caramel I've tasted in a while and subverting every expectations I had, it deserves a higher number. It'll stay a 4 because it doesn't cater to my taste, but hopefully someone who loves caramel would think of it as really good. Going back to the subversion, I was expecting the gooey caramel texture inside the chocolate shell, but it wasn't that. Caramel is just part of the chocolate's flavor. It eliminates a gooey texture of caramel that may upset caramel-likers that have found to expect that texture but would be delightful for someone like me who dislikes it. I don't know who's the target audience of this chocolate to be honest."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Moving on from the meta talk about caramel, let's talk about the chocolate's property in its own. It's quite sweeter than the chocolate I'm used to. I'm more of a 75% chocolate type of guy, going up to 85% or 90% sometimes. It's quite addicting though. I find sweeter variants of chocolate quite too much to eat for larger portions, but I'm hesitant to say I'd experience it with eating more of this. The texture is that of any other chocolonely chocolate bar: not exactly melt in your mouth, but you could easily bite into it. It's not as plasticky as American Hersheys, but still feels cheap eating it. A stand out was the sea salt (?) that would occasionally be there, which is a nice texture and variance."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "depth": 2,
+          "children": [
+            {
+              "type": "text",
+              "value": "Day 2: Milk chocolate"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://photos.reinhardluvr69.com/photos/7a95da7f-f513-4c6b-95f6-e92ce2989b41.jpg",
+              "children": [
+                {
+                  "type": "image",
+                  "title": null,
+                  "url": "https://photos.reinhardluvr69.com/photos/7a95da7f-f513-4c6b-95f6-e92ce2989b41.jpg",
+                  "alt": "Tony's Chocoloney Milk Chocolate|322",
+                  "label": "Tony's Chocoloney Milk Chocolate|322",
+                  "identifier": "tony's chocoloney milk chocolate|322"
+                }
+              ],
+              "label": "![Tony's Chocoloney Milk Chocolate|322](https://photos.reinhardluvr69.com/photos/7a95da7f-f513-4c6b-95f6-e92ce2989b41.jpg)",
+              "identifier": "![tony's chocoloney milk chocolate|322](https://photos.reinhardluvr69.com/photos/7a95da7f-f513-4c6b-95f6-e92ce2989b41.jpg)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "html",
+              "value": "<span data-obsidian-type=\"rating\" data-rating-name=\"milk-chocolage\">"
+            },
+            {
+              "type": "text",
+              "value": "Rating: 4/10"
+            },
+            {
+              "type": "html",
+              "value": "</span>"
+            }
+          ]
+        },
+        {
+          "type": "blockquote",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "A better version of what's out there with an equivalent price markup. Nothing special."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://x.com/reinhardluvr69/status/2022816007610331396?s=20",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "I've already tasted this before."
+                }
+              ],
+              "label": "I've already tasted this before.",
+              "identifier": "i've already tasted this before."
+            },
+            {
+              "type": "text",
+              "value": " It's okay. It taste like those cheap or common brand chocolate, sweet but a tad more richer. Nothing special. Maybe I'm not a chocolate connoisseur myself to really appreciate the hype behind it."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Day 3: Dark chocolate"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Rating 3.5/10"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Finally, something I would've liked, I excitedly was thinking initially. It was a disappointment. It felt like I was eating Dollarstore chocolate. It tasted so cheap. I think it's okay but I think I just had too high of an expectation going into a flavor I finally would've loved. It didn't rescue its score for me."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
