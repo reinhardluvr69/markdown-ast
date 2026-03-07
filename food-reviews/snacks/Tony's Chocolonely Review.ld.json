@@ -7,7 +7,7 @@
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "4",
-    "reviewCount": "1",
+    "reviewCount": "6",
     "bestRating": 10,
     "worstRating": 1
   },
