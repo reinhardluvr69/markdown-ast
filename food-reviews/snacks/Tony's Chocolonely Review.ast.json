@@ -4,8 +4,8 @@
   "basename": "Tony's Chocolonely Review",
   "stat": {
     "ctime": 1772308456008,
-    "mtime": 1772739014662,
-    "size": 4380
+    "mtime": 1772875904812,
+    "size": 5008
   },
   "tags": [
     "food-review",
@@ -299,6 +299,89 @@
             {
               "type": "text",
               "value": "Finally, something I would've liked, I excitedly was thinking initially. It was a disappointment. It felt like I was eating Dollarstore chocolate. It tasted so cheap. I think it's okay but I think I just had too high of an expectation going into a flavor I finally would've loved. It didn't rescue its score for me."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "depth": 2,
+          "children": [
+            {
+              "type": "text",
+              "value": "Day 5: Dark chocolate almond sea salt (4.5/10)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "image",
+              "title": null,
+              "url": "https://photos.reinhardluvr69.com/photos/0d8f2c03-46b9-4c95-9d93-e295e926e2da.jpg",
+              "alt": "",
+              "label": "",
+              "identifier": ""
+            }
+          ]
+        },
+        {
+          "type": "blockquote",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "My favorite but not good enough"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Wait, this one might actually be the redeeming flavor. It's not as cheap tasting as the plain dark chocolate. The sea salt adds depth and I don't mind the almonds on this one. I might actually give this a 4.5. Won't buy it with the rest but it's much better than any of the flavors yet.**"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "depth": 2,
+          "children": [
+            {
+              "type": "text",
+              "value": "Day 6: Milk chocolate nougat (4/10)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "image",
+              "title": null,
+              "url": "https://photos.reinhardluvr69.com/photos/09155025-9294-4756-9ca5-b7badfb0fa43.jpg",
+              "alt": "",
+              "label": "",
+              "identifier": ""
+            }
+          ]
+        },
+        {
+          "type": "blockquote",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "It's okay. Nothing special, too."
+                }
+              ]
             }
           ]
         }

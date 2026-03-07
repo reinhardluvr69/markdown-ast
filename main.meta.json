@@ -1,14 +1,32 @@
 {
   "files": [
     {
+      "path": "adventure/go to top of the hill.ast.json",
+      "name": "go to top of the hill.md",
+      "basename": "go to top of the hill",
+      "extension": "md",
+      "stat": {
+        "ctime": 1772875584489,
+        "mtime": 1772877691341,
+        "size": 2703
+      },
+      "tags": [
+        "adventure",
+        "montreal"
+      ],
+      "preview": "https://photos.reinhardluvr69.com/photos/381b9bab-07e4-4a17-a988-b6a40622904d.jpg",
+      "tagline": "\"go to top of the hill.\" It was a task in my todo list with a date marked for March 6, 2026. We know what we're doing this Friday night then.",
+      "slug": "go-to-top-of-the-hill"
+    },
+    {
       "path": "food-reviews/snacks/Tony's Chocolonely Review.ast.json",
       "name": "Tony's Chocolonely Review.md",
       "basename": "Tony's Chocolonely Review",
       "extension": "md",
       "stat": {
         "ctime": 1772308456008,
-        "mtime": 1772739014662,
-        "size": 4380
+        "mtime": 1772875904812,
+        "size": 5008
       },
       "tags": [
         "food-review",
@@ -136,6 +154,26 @@
     }
   ],
   "tags": [
+    {
+      "name": "adventure",
+      "entries": [
+        {
+          "path": "adventure/go to top of the hill.ast.json",
+          "slug": "go-to-top-of-the-hill",
+          "preview": "https://photos.reinhardluvr69.com/photos/381b9bab-07e4-4a17-a988-b6a40622904d.jpg"
+        }
+      ]
+    },
+    {
+      "name": "montreal",
+      "entries": [
+        {
+          "path": "adventure/go to top of the hill.ast.json",
+          "slug": "go-to-top-of-the-hill",
+          "preview": "https://photos.reinhardluvr69.com/photos/381b9bab-07e4-4a17-a988-b6a40622904d.jpg"
+        }
+      ]
+    },
     {
       "name": "food-review",
       "entries": [

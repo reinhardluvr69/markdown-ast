@@ -87,6 +87,44 @@
         "ratingValue": "3.5",
         "worstRating": "1"
       }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "turnip"
+      },
+      "itemReviewed": {
+        "@type": "Product",
+        "name": "Tony's Chocolonely Dark Chocolate Almond Sea Salt"
+      },
+      "datePublished": "2026-03-05",
+      "reviewBody": "My favorite but not good enough",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "10",
+        "ratingValue": "4.5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "turnip"
+      },
+      "itemReviewed": {
+        "@type": "Product",
+        "name": "Tony's Chocolonely Milk Chocolate Nougat"
+      },
+      "datePublished": "2026-03-06",
+      "reviewBody": "It's okay. Nothing special, too.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "10",
+        "ratingValue": "4",
+        "worstRating": "1"
+      }
     }
   ]
 }
