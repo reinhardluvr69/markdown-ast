@@ -4,8 +4,8 @@
   "basename": "go to top of the hill",
   "stat": {
     "ctime": 1772875584489,
-    "mtime": 1772925408598,
-    "size": 2748
+    "mtime": 1772927355791,
+    "size": 2750
   },
   "tags": [
     "adventure",
@@ -78,7 +78,12 @@
               "alt": "319",
               "label": "319",
               "identifier": "319"
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
             {
               "type": "image",
               "title": null,
