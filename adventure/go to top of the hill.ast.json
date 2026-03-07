@@ -4,8 +4,8 @@
   "basename": "go to top of the hill",
   "stat": {
     "ctime": 1772875584489,
-    "mtime": 1772925200087,
-    "size": 2685
+    "mtime": 1772925408598,
+    "size": 2748
   },
   "tags": [
     "adventure",
@@ -72,31 +72,20 @@
           "type": "paragraph",
           "children": [
             {
-              "type": "link",
-              "title": null,
-              "url": "https://photos.reinhardluvr69.com/photos/0547f294-9c56-4067-af15-5325e65865c9.jpg",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "https://photos.reinhardluvr69.com/photos/0547f294-9c56-4067-af15-5325e65865c9.jpg"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "type": "link",
+              "type": "image",
               "title": null,
               "url": "https://photos.reinhardluvr69.com/photos/34972178-c051-4819-9d5e-cc7d0d35e626.jpg",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "https://photos.reinhardluvr69.com/photos/34972178-c051-4819-9d5e-cc7d0d35e626.jpg"
-                }
-              ]
+              "alt": "319",
+              "label": "319",
+              "identifier": "319"
+            },
+            {
+              "type": "image",
+              "title": null,
+              "url": "https://photos.reinhardluvr69.com/photos/9a80c1ea-9583-4f7e-ba08-e1e8f364f26e.jpg",
+              "alt": "313",
+              "label": "313",
+              "identifier": "313"
             }
           ]
         },
@@ -104,15 +93,12 @@
           "type": "paragraph",
           "children": [
             {
-              "type": "link",
+              "type": "image",
               "title": null,
-              "url": "https://photos.reinhardluvr69.com/photos/9a80c1ea-9583-4f7e-ba08-e1e8f364f26e.jpg",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "https://photos.reinhardluvr69.com/photos/9a80c1ea-9583-4f7e-ba08-e1e8f364f26e.jpg"
-                }
-              ]
+              "url": "https://photos.reinhardluvr69.com/photos/0547f294-9c56-4067-af15-5325e65865c9.jpg",
+              "alt": "0547f294-9c56-4067-af15-5325e65865c9.jpg|536",
+              "label": "0547f294-9c56-4067-af15-5325e65865c9.jpg|536",
+              "identifier": "0547f294-9c56-4067-af15-5325e65865c9.jpg|536"
             }
           ]
         },
@@ -186,15 +172,12 @@
           "type": "paragraph",
           "children": [
             {
-              "type": "link",
+              "type": "image",
               "title": null,
               "url": "https://photos.reinhardluvr69.com/photos/9fa062b2-db26-47c0-9644-9ad2737e320c.jpg?with-description=true",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "https://photos.reinhardluvr69.com/photos/9fa062b2-db26-47c0-9644-9ad2737e320c.jpg?with-description=true"
-                }
-              ]
+              "alt": "",
+              "label": "",
+              "identifier": ""
             }
           ]
         },
@@ -211,15 +194,12 @@
           "type": "paragraph",
           "children": [
             {
-              "type": "link",
+              "type": "image",
               "title": null,
               "url": "https://photos.reinhardluvr69.com/photos/2dea0aeb-90b9-4b78-9062-47b594431662.jpg?with-description=true",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "https://photos.reinhardluvr69.com/photos/2dea0aeb-90b9-4b78-9062-47b594431662.jpg?with-description=true"
-                }
-              ]
+              "alt": "",
+              "label": "",
+              "identifier": ""
             }
           ]
         },
