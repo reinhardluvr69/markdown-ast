@@ -4,8 +4,8 @@
   "basename": "go to top of the hill",
   "stat": {
     "ctime": 1772875584489,
-    "mtime": 1772878183388,
-    "size": 2703
+    "mtime": 1772878364512,
+    "size": 2681
   },
   "tags": [
     "adventure",
@@ -266,11 +266,11 @@
             {
               "type": "link",
               "title": null,
-              "url": "https://photo-gallery.reinhardluvr69.com/photos?tags=belvedere-kondiaronk?with-description=true",
+              "url": "https://photo-gallery.reinhardluvr69.com/photos?tags=belvedere-kondiaronk",
               "children": [
                 {
                   "type": "text",
-                  "value": "https://photo-gallery.reinhardluvr69.com/photos?tags=belvedere-kondiaronk?with-description=true"
+                  "value": "https://photo-gallery.reinhardluvr69.com/photos?tags=belvedere-kondiaronk"
                 }
               ]
             }
