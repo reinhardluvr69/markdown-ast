@@ -4,8 +4,8 @@
   "basename": "go to top of the hill",
   "stat": {
     "ctime": 1772875584489,
-    "mtime": 1772925031801,
-    "size": 2693
+    "mtime": 1772925200087,
+    "size": 2685
   },
   "tags": [
     "adventure",
@@ -188,11 +188,11 @@
             {
               "type": "link",
               "title": null,
-              "url": "https://photos.reinhardluvr69.com/api/photos/9fa062b2-db26-47c0-9644-9ad2737e320c.jpg?with-description=true",
+              "url": "https://photos.reinhardluvr69.com/photos/9fa062b2-db26-47c0-9644-9ad2737e320c.jpg?with-description=true",
               "children": [
                 {
                   "type": "text",
-                  "value": "https://photos.reinhardluvr69.com/api/photos/9fa062b2-db26-47c0-9644-9ad2737e320c.jpg?with-description=true"
+                  "value": "https://photos.reinhardluvr69.com/photos/9fa062b2-db26-47c0-9644-9ad2737e320c.jpg?with-description=true"
                 }
               ]
             }
@@ -213,11 +213,11 @@
             {
               "type": "link",
               "title": null,
-              "url": "https://photos.reinhardluvr69.com/api/photos/2dea0aeb-90b9-4b78-9062-47b594431662.jpg?with-description=true",
+              "url": "https://photos.reinhardluvr69.com/photos/2dea0aeb-90b9-4b78-9062-47b594431662.jpg?with-description=true",
               "children": [
                 {
                   "type": "text",
-                  "value": "https://photos.reinhardluvr69.com/api/photos/2dea0aeb-90b9-4b78-9062-47b594431662.jpg?with-description=true"
+                  "value": "https://photos.reinhardluvr69.com/photos/2dea0aeb-90b9-4b78-9062-47b594431662.jpg?with-description=true"
                 }
               ]
             }
