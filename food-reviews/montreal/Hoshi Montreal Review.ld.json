@@ -1,0 +1,34 @@
+{
+  "$schema": "https://schema.org/docs/jsonldcontext.json",
+  "@context": "https://schema.org/",
+  "@type": "Review",
+  "datePublished": "2026-03-21",
+  "itemReviewed": {
+    "@type": "Restaurant",
+    "image": "https://photos.reinhardluvr69.com/photos/cdffc5e8-d93e-4d3e-b661-35268d8f5fbc.jpg",
+    "name": "Hoshi Montréal Review",
+    "servesCuisine": [
+      "Japanese"
+    ],
+    "url": "https://www.instagram.com/hoshirestaurantmtl/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "14 Rue de la Gauchetière E",
+      "addressLocality": "Montréal",
+      "addressRegion": "QC",
+      "postalCode": "H2X 1P4",
+      "addressCountry": "CA"
+    }
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 4.9,
+    "bestRating": 10,
+    "worstRating": 1
+  },
+  "reviewBody": "It's a good food place but a below average katsudon experience. Hoshi makes me want katsudon, but not theirs.",
+  "author": {
+    "@type": "Person",
+    "name": "turnip"
+  }
+}

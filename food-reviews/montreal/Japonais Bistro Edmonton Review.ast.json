@@ -1,0 +1,88 @@
+{
+  "path": "food-reviews/edmonton/Japonais Bistro Edmonton Review.ast.json",
+  "name": "Japonais Bistro Edmonton Review.md",
+  "basename": "Japonais Bistro Edmonton Review",
+  "stat": {
+    "ctime": 1727222400000,
+    "mtime": 1727222400000,
+    "size": 1424
+  },
+  "tags": [
+    "turnip-food-tour",
+    "food-review",
+    "edmonton"
+  ],
+  "slug": "review/japonais-bistro-edmonton",
+  "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg",
+  "previewAlt": "Pressed sushi",
+  "datePublished": "2024-09-25",
+  "tagline": "6/10. Wonderful presentation, food-wise and settings-wise. It's good but there's nothing special, and the price isn't helping.",
+  "lastUpdated": "2024-09-25",
+  "ast": {
+    "settings": {},
+    "frontmatter": {
+      "tags": [
+        "turnip-food-tour",
+        "food-review",
+        "edmonton"
+      ],
+      "slug": "review/japonais-bistro-edmonton",
+      "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg",
+      "previewAlt": "Pressed sushi",
+      "datePublished": "2024-09-25",
+      "tagline": "6/10. Wonderful presentation, food-wise and settings-wise. It's good but there's nothing special, and the price isn't helping.",
+      "lastUpdated": "2024-09-25"
+    },
+    "ast": {
+      "type": "root",
+      "children": [
+        {
+          "type": "yaml",
+          "value": "tags:\n  - turnip-food-tour\n  - food-review\n  - edmonton\nslug: review/japonais-bistro-edmonton\npreview: https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg\npreviewAlt: Pressed sushi\ndatePublished: 2024-09-25\ntagline: 6/10. Wonderful presentation, food-wise and settings-wise. It's good but there's nothing special, and the price isn't helping.\nlastUpdated: 2024-09-25"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Good sushi. Wonderful presentation. Wasabi isn't as good as "
+            },
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://www.facebook.com/pages/Sushi-Wasabi/127780533928708",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Sushi Wasabi Edmonton"
+                }
+              ],
+              "label": "Sushi Wasabi Edmonton",
+              "identifier": "sushi wasabi edmonton"
+            },
+            {
+              "type": "text",
+              "value": ". I could barely taste the spiciness in their TNT Sushi, if there is at all. Otherwise, the TNT Sushi has a good smoky aftertaste and nice creamy flavor, just gotta remember to wash my palette with some good ole ginger. The Pressed Salmon Sushi is the typical sushi I expect. It's delicious but nothing that I've already tasted elsewhere. It's a wonderful combination of crispy tempura bit texture and creamy texture. You can never go wrong with salmon and the caviar is non-trivially served. The TNT's rice was noticeably better than this but does not detract the typical sushi experience I at least expect. Doesn't mean it's bad, but it's not exceptional. The Raspberry Calpico Fizz drink is okay. There's a nice contrast between the fruit and soda. Nothing special but it's still good."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

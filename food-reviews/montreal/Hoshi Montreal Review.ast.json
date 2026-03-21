@@ -1,0 +1,264 @@
+{
+  "path": "food-reviews/montreal/Hoshi Montreal Review.ast.json",
+  "name": "Hoshi Montreal Review.md",
+  "basename": "Hoshi Montreal Review",
+  "stat": {
+    "ctime": 1774128560651,
+    "mtime": 1774131766328,
+    "size": 3567
+  },
+  "tags": [
+    "turnip-food-tour",
+    "food-review",
+    "edmonton"
+  ],
+  "slug": "review/hoshi-montreal",
+  "preview": "https://photos.reinhardluvr69.com/photos/cdffc5e8-d93e-4d3e-b661-35268d8f5fbc.jpg",
+  "previewAlt": "Katsudon",
+  "tagline": "4.9/10. It's a good food place but a below average katsudon experience. Hoshi makes me want katsudon, but not theirs.",
+  "ast": {
+    "settings": {},
+    "frontmatter": {
+      "tags": [
+        "turnip-food-tour",
+        "food-review",
+        "edmonton"
+      ],
+      "slug": "review/hoshi-montreal",
+      "preview": "https://photos.reinhardluvr69.com/photos/cdffc5e8-d93e-4d3e-b661-35268d8f5fbc.jpg",
+      "previewAlt": "Katsudon",
+      "tagline": "4.9/10. It's a good food place but a below average katsudon experience. Hoshi makes me want katsudon, but not theirs."
+    },
+    "ast": {
+      "type": "root",
+      "children": [
+        {
+          "type": "yaml",
+          "value": "tags:\n  - turnip-food-tour\n  - food-review\n  - edmonton\nslug: review/hoshi-montreal\npreview: https://photos.reinhardluvr69.com/photos/cdffc5e8-d93e-4d3e-b661-35268d8f5fbc.jpg\npreviewAlt: Katsudon\ntagline: 4.9/10. It's a good food place but a below average katsudon experience. Hoshi makes me want katsudon, but not theirs."
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://photos.reinhardluvr69.com/photos/cdffc5e8-d93e-4d3e-b661-35268d8f5fbc.jpg",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "https://photos.reinhardluvr69.com/photos/cdffc5e8-d93e-4d3e-b661-35268d8f5fbc.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "I've been waiting for a while to try out Hoshi. I've attempted twice to go there. When I first went there, I was with someone who didn't like Katsu, so we simply went elsewhere. On my second visit, the place was temporarily closed because their store front windows were all completely shattered across the street."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Today, the star has aligned and I can finally quench my Katsu cravings for months."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "It did satisfy my cravings but comparison is easily done once you've had a taste of ~~perfection~~ something a bit better. It just made me want to eat katsudon elsewhere."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "The presentation was top-notch. It all looked good. It tasted okay, and I think that's where its faults lie. I've been to so many great places, and know another great place locally that it made me feel like there's no point of going there again."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "An initial scan of the plate, it heavily reminds me of my one Kobe premium beef meal I had in Kyoto (November 2025) that had a better assortment and quantity of dips and seasonings. Even the other local Katsu store, "
+            },
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://www.katsuya.ca/montreal-menu",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Katsuya"
+                }
+              ],
+              "label": "Katsuya",
+              "identifier": "katsuya"
+            },
+            {
+              "type": "text",
+              "value": ", had a crispier, juicier katsu, served with a better amount and flavors of sauces. The sauces barely added anything to write about that I might as well just eat it as it is. And even eating it on it's own it reminded me of the katsu I had in Japan that was so good on its own, too. It reminded me of the savory katsu I had in "
+            },
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://kazokuramen.ca/",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Kazoku Edmonton"
+                }
+              ],
+              "label": "Kazoku Edmonton",
+              "identifier": "kazoku edmonton"
+            },
+            {
+              "type": "text",
+              "value": ", and the amazingly seasoned and correctly peppered katsu from "
+            },
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://www.kabukisushisouth.com/",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Kabuki Sushi Grill Edmonton"
+                }
+              ],
+              "label": "Kabuki Sushi Grill Edmonton",
+              "identifier": "kabuki sushi grill edmonton"
+            },
+            {
+              "type": "text",
+              "value": ". I even feel like nitpicking the wasabi since I gotten so used to tasting many wasabis that I can tell it was subpar and bland. Even the side dish was meh, and it just made me remember feeling so addicted to whatever they put in "
+            },
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://www.narakatsu.com/",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Nara Katsu Edmonton's"
+                }
+              ],
+              "label": "Nara Katsu Edmonton's",
+              "identifier": "nara katsu edmonton's"
+            },
+            {
+              "type": "text",
+              "value": "kimchi, and "
+            },
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://kyoto-sushijapanese.com/",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Kyoto Sushi Edmonton's"
+                }
+              ],
+              "label": "Kyoto Sushi Edmonton's",
+              "identifier": "kyoto sushi edmonton's"
+            },
+            {
+              "type": "text",
+              "value": " cabbage. Let me repeat that they are a great restaurant but they are overshadowed by the many kastu restaurants I've been to."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Only personal selling point for it is that they are not a bad katsu. I would even say they have a good katsu, but it may be that their price that's putting me off. I remember eating katsu that was on par with this, from "
+            },
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://www.instagram.com/yoshiexpress.yeg/",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Yoshii Express in Whyte Avenue (RIP)"
+                }
+              ],
+              "label": "Yoshii Express in Whyte Avenue (RIP)",
+              "identifier": "yoshii express in whyte avenue (rip)"
+            },
+            {
+              "type": "text",
+              "value": ", but it didn't matter because they were cheaper and plentiful than the other options around. I felt great eating their bento katsu afterwards. I felt meh after eating at Hoshi's."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "I would definitely recommend and go back there if they're prices were 25% lower. A lower price would definitely put them at a 5/10 for me, but the reality is that I don't feel like giving them 5/10 at the state they're currently in. I would go back if someone asked me to go there, but I might recommend a 10 minute ride of the train to Katsuya if they're willing to go a bit further for a better experience."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://photos.reinhardluvr69.com/photos/42ad08a3-706e-4c28-a1c1-5a828f4a9afb.jpg",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "https://photos.reinhardluvr69.com/photos/42ad08a3-706e-4c28-a1c1-5a828f4a9afb.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://photos.reinhardluvr69.com/photos/f7ccb1b5-e647-4822-8f16-9d7275626a78.jpg",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "https://photos.reinhardluvr69.com/photos/f7ccb1b5-e647-4822-8f16-9d7275626a78.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Bluesky post | Mastodon post"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
