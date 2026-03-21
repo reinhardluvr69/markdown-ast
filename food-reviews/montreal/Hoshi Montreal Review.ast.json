@@ -4,13 +4,13 @@
   "basename": "Hoshi Montreal Review",
   "stat": {
     "ctime": 1774128560651,
-    "mtime": 1774132525036,
+    "mtime": 1774132908435,
     "size": 3731
   },
   "tags": [
     "turnip-food-tour",
     "food-review",
-    "edmonton"
+    "montreal"
   ],
   "slug": "review/hoshi-montreal",
   "preview": "https://photos.reinhardluvr69.com/photos/cdffc5e8-d93e-4d3e-b661-35268d8f5fbc.jpg",
@@ -22,7 +22,7 @@
       "tags": [
         "turnip-food-tour",
         "food-review",
-        "edmonton"
+        "montreal"
       ],
       "slug": "review/hoshi-montreal",
       "preview": "https://photos.reinhardluvr69.com/photos/cdffc5e8-d93e-4d3e-b661-35268d8f5fbc.jpg",
@@ -34,7 +34,7 @@
       "children": [
         {
           "type": "yaml",
-          "value": "tags:\n  - turnip-food-tour\n  - food-review\n  - edmonton\nslug: review/hoshi-montreal\npreview: https://photos.reinhardluvr69.com/photos/cdffc5e8-d93e-4d3e-b661-35268d8f5fbc.jpg\npreviewAlt: Katsudon\ntagline: 4.9/10. It's a good food place but a below average katsudon experience. Hoshi makes me want katsudon, but not theirs."
+          "value": "tags:\n  - turnip-food-tour\n  - food-review\n  - montreal\nslug: review/hoshi-montreal\npreview: https://photos.reinhardluvr69.com/photos/cdffc5e8-d93e-4d3e-b661-35268d8f5fbc.jpg\npreviewAlt: Katsudon\ntagline: 4.9/10. It's a good food place but a below average katsudon experience. Hoshi makes me want katsudon, but not theirs."
         },
         {
           "type": "paragraph",

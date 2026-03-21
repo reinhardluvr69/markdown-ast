@@ -7,13 +7,13 @@
       "extension": "md",
       "stat": {
         "ctime": 1774128560651,
-        "mtime": 1774132525036,
+        "mtime": 1774132908435,
         "size": 3731
       },
       "tags": [
         "turnip-food-tour",
         "food-review",
-        "edmonton"
+        "montreal"
       ],
       "slug": "review/hoshi-montreal",
       "preview": "https://photos.reinhardluvr69.com/photos/cdffc5e8-d93e-4d3e-b661-35268d8f5fbc.jpg",
@@ -224,23 +224,13 @@
       ]
     },
     {
-      "name": "edmonton",
+      "name": "montreal",
       "entries": [
         {
           "path": "food-reviews/montreal/Hoshi Montreal Review.ast.json",
           "slug": "review/hoshi-montreal",
           "preview": "https://photos.reinhardluvr69.com/photos/cdffc5e8-d93e-4d3e-b661-35268d8f5fbc.jpg"
         },
-        {
-          "path": "food-reviews/edmonton/Japonais Bistro Edmonton Review.ast.json",
-          "slug": "review/japonais-bistro-edmonton",
-          "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg"
-        }
-      ]
-    },
-    {
-      "name": "adventure",
-      "entries": [
         {
           "path": "adventure/go to top of the hill.ast.json",
           "slug": "go-to-top-of-the-hill",
@@ -249,7 +239,7 @@
       ]
     },
     {
-      "name": "montreal",
+      "name": "adventure",
       "entries": [
         {
           "path": "adventure/go to top of the hill.ast.json",
@@ -319,6 +309,16 @@
           "path": "events/Niko's 6th birthday.ast.json",
           "slug": "niko-6th-bday",
           "preview": "https://photos.reinhardluvr69.com/photos/24170415-e974-442a-b3c9-85cd048f3916.jpg"
+        }
+      ]
+    },
+    {
+      "name": "edmonton",
+      "entries": [
+        {
+          "path": "food-reviews/edmonton/Japonais Bistro Edmonton Review.ast.json",
+          "slug": "review/japonais-bistro-edmonton",
+          "preview": "https://photos.reinhardluvr69.com/photos/9cddf39a-d785-4113-beae-4b671496cd42.jpg"
         }
       ]
     }

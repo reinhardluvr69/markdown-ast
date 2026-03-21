@@ -2,7 +2,7 @@
 tags:
   - turnip-food-tour
   - food-review
-  - edmonton
+  - montreal
 slug: review/hoshi-montreal
 preview: https://photos.reinhardluvr69.com/photos/cdffc5e8-d93e-4d3e-b661-35268d8f5fbc.jpg
 previewAlt: Katsudon
