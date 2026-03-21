@@ -4,8 +4,8 @@
   "basename": "Hoshi Montreal Review",
   "stat": {
     "ctime": 1774128560651,
-    "mtime": 1774132371212,
-    "size": 3717
+    "mtime": 1774132525036,
+    "size": 3731
   },
   "tags": [
     "turnip-food-tour",
@@ -246,15 +246,15 @@
             {
               "type": "link",
               "title": null,
-              "url": "https://bsky.app/profile/reinhardluvr69.bsky.social/post/3mhm3gqpkjk24",
+              "url": "https://digipres.club/@reinhardluvr69/116269537208670293",
               "children": [
                 {
                   "type": "text",
-                  "value": "Bluesky post"
+                  "value": "digipres.club mastodon post"
                 }
               ],
-              "label": "Bluesky post",
-              "identifier": "bluesky post"
+              "label": "digipres.club mastodon post",
+              "identifier": "digipres.club mastodon post"
             },
             {
               "type": "text",
@@ -263,15 +263,15 @@
             {
               "type": "link",
               "title": null,
-              "url": "https://digipres.club/@reinhardluvr69/116269537208670293",
+              "url": "https://bsky.app/profile/reinhardluvr69.bsky.social/post/3mhm3gqpkjk24",
               "children": [
                 {
                   "type": "text",
-                  "value": "Mastodon post"
+                  "value": "bluesky post"
                 }
               ],
-              "label": "Mastodon post",
-              "identifier": "mastodon post"
+              "label": "bluesky post",
+              "identifier": "bluesky post"
             }
           ]
         }
