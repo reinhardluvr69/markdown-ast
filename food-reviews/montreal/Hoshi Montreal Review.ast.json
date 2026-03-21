@@ -4,8 +4,8 @@
   "basename": "Hoshi Montreal Review",
   "stat": {
     "ctime": 1774128560651,
-    "mtime": 1774131766328,
-    "size": 3567
+    "mtime": 1774132371212,
+    "size": 3717
   },
   "tags": [
     "turnip-food-tour",
@@ -40,15 +40,12 @@
           "type": "paragraph",
           "children": [
             {
-              "type": "link",
+              "type": "image",
               "title": null,
               "url": "https://photos.reinhardluvr69.com/photos/cdffc5e8-d93e-4d3e-b661-35268d8f5fbc.jpg",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "https://photos.reinhardluvr69.com/photos/cdffc5e8-d93e-4d3e-b661-35268d8f5fbc.jpg"
-                }
-              ]
+              "alt": "244",
+              "label": "244",
+              "identifier": "244"
             }
           ]
         },
@@ -75,7 +72,7 @@
           "children": [
             {
               "type": "text",
-              "value": "It did satisfy my cravings but comparison is easily done once you've had a taste of ~~perfection~~ something a bit better. It just made me want to eat katsudon elsewhere."
+              "value": "It did satisfy my cravings but comparison is easily done once you've had a taste of (perfection) something a bit better. It just made me want to eat katsudon elsewhere."
             }
           ]
         },
@@ -221,15 +218,25 @@
           "type": "paragraph",
           "children": [
             {
-              "type": "link",
+              "type": "image",
               "title": null,
               "url": "https://photos.reinhardluvr69.com/photos/42ad08a3-706e-4c28-a1c1-5a828f4a9afb.jpg",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "https://photos.reinhardluvr69.com/photos/42ad08a3-706e-4c28-a1c1-5a828f4a9afb.jpg"
-                }
-              ]
+              "alt": "300",
+              "label": "300",
+              "identifier": "300"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "image",
+              "title": null,
+              "url": "https://photos.reinhardluvr69.com/photos/f7ccb1b5-e647-4822-8f16-9d7275626a78.jpg",
+              "alt": "300",
+              "label": "300",
+              "identifier": "300"
             }
           ]
         },
@@ -239,22 +246,32 @@
             {
               "type": "link",
               "title": null,
-              "url": "https://photos.reinhardluvr69.com/photos/f7ccb1b5-e647-4822-8f16-9d7275626a78.jpg",
+              "url": "https://bsky.app/profile/reinhardluvr69.bsky.social/post/3mhm3gqpkjk24",
               "children": [
                 {
                   "type": "text",
-                  "value": "https://photos.reinhardluvr69.com/photos/f7ccb1b5-e647-4822-8f16-9d7275626a78.jpg"
+                  "value": "Bluesky post"
                 }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
+              ],
+              "label": "Bluesky post",
+              "identifier": "bluesky post"
+            },
             {
               "type": "text",
-              "value": "Bluesky post | Mastodon post"
+              "value": " | "
+            },
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://digipres.club/@reinhardluvr69/116269537208670293",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Mastodon post"
+                }
+              ],
+              "label": "Mastodon post",
+              "identifier": "mastodon post"
             }
           ]
         }
