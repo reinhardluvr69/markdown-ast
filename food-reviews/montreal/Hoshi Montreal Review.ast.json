@@ -4,8 +4,8 @@
   "basename": "Hoshi Montreal Review",
   "stat": {
     "ctime": 1774128560651,
-    "mtime": 1774132908435,
-    "size": 3731
+    "mtime": 1774156443850,
+    "size": 3762
   },
   "tags": [
     "turnip-food-tour",
@@ -72,7 +72,23 @@
           "children": [
             {
               "type": "text",
-              "value": "It did satisfy my cravings but comparison is easily done once you've had a taste of (perfection) something a bit better. It just made me want to eat katsudon elsewhere."
+              "value": "It did satisfy my cravings but comparison is easily done once you've had a taste of "
+            },
+            {
+              "type": "html",
+              "value": "<s>"
+            },
+            {
+              "type": "text",
+              "value": "perfection"
+            },
+            {
+              "type": "html",
+              "value": "</s>"
+            },
+            {
+              "type": "text",
+              "value": " something a bit better. It just made me want to eat katsudon elsewhere."
             }
           ]
         },
@@ -250,11 +266,11 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "digipres.club mastodon post"
+                  "value": "@digipres.club@reinhardluvr69 post"
                 }
               ],
-              "label": "digipres.club mastodon post",
-              "identifier": "digipres.club mastodon post"
+              "label": "@digipres.club@reinhardluvr69 post",
+              "identifier": "@digipres.club@reinhardluvr69 post"
             },
             {
               "type": "text",
@@ -267,11 +283,11 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "bluesky post"
+                  "value": "reinhardluvr69.bsky.social post"
                 }
               ],
-              "label": "bluesky post",
-              "identifier": "bluesky post"
+              "label": "reinhardluvr69.bsky.social post",
+              "identifier": "reinhardluvr69.bsky.social post"
             }
           ]
         }
